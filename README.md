@@ -1,3 +1,10 @@
+from CSB:
+
+# Links
+
+[good article 1](https://javascript.plainenglish.io/continuously-deploy-static-pages-with-github-actions-gh-pages-207e4a009d1c)
+
+from react template:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
