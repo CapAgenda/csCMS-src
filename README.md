@@ -1,6 +1,6 @@
 from CSB:
 
-# Links
+# good Links
 
 [good article 1](https://javascript.plainenglish.io/continuously-deploy-static-pages-with-github-actions-gh-pages-207e4a009d1c)
 
