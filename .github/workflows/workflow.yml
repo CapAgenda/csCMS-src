@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    run-on: ubutu-latest
+    runs-on: ubutu-latest
 
     strategy:
       matrix:
