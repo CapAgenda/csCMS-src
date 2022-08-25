@@ -75,8 +75,8 @@ return (
             </ul>
         </div>
         <div className="comic-text">
-            <p>Permanent Link:  <a href="">url.csb/thiscomic</a></p>
-            <p>Image URL (for hotlinking / embedding) <a href="">url.csb/thiscomic</a></p>
+            <p>Permanent Link:  <a href="/#">url.csb/thiscomic</a></p>
+            <p>Image URL (for hotlinking / embedding) <a href="/#">url.csb/thiscomic</a></p>
         </div>
     </section>
 )

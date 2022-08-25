@@ -276,7 +276,7 @@ section {
         padding: 1rem 2rem 1rem 5rem !important;
     } 
 
-    .comic-nav-list>li>a {
+    .comic-nav-list>li>button {
         padding: .5rem 0.75rem !important;
     }   
 }
@@ -343,7 +343,7 @@ section {
     padding: 1.5em 0;
 }
 
-.comic-nav-list>li>a {
+.comic-nav-list>li>button {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: var(--fw-light);
