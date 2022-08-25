@@ -354,6 +354,7 @@ section {
     color: var(--clr-neutral-100);
     background: var(--clr-accent-500);
     box-shadow: 0rem 0.05rem .25rem var(--clr-neutral-900);
+    cursor: pointer;
 }
 
 .comic-text {
