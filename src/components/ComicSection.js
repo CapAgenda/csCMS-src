@@ -42,7 +42,12 @@ function ComicSection () {
         setComicIndex(comics.length - 1);
     };
     const comicsNext = () => {
+        if (comicIndex == comics.length -1) {
+            setComicIndex(0);
+        }
+        else {
             setComicIndex(comicIndex + 1);
+        }
     };
     const comicsRand = () => {
         const min = 0;
@@ -52,6 +57,10 @@ function ComicSection () {
             console.log(rand);
     };
     const comicsPrev = () => {
+        if (comicIndex == 0) {
+            setComicIndex(comics.length - 1)
+        }
+        else 
             setComicIndex(comicIndex - 1);
     };
     const comicsStart = () => {
