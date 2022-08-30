@@ -37,6 +37,7 @@ def download_image(location, file_name):
     #send GET request
     response = requests.get(location)
     file_name = file_name
+    location = location
     #Set images directory
     dir_path = 'src/images'
     #Write image file
