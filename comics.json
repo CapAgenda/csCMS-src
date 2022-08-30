@@ -1,992 +1,662 @@
 [
-    [
-        {
-            "Title": "A-Word Lesson.png",
-            "Ref": "require('../images/A-Word Lesson.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Europe sinks.png",
-            "Ref": "require('../images/Europe sinks.png')"
-        }
-    ],
-    [
-        {
-            "Title": "meme excuse.png",
-            "Ref": "require('../images/meme excuse.png')"
-        }
-    ],
-    [
-        {
-            "Title": "everything but jabs.png",
-            "Ref": "require('../images/everything but jabs.png')"
-        }
-    ],
-    [
-        {
-            "Title": "when again.png",
-            "Ref": "require('../images/when again.png')"
-        }
-    ],
-    [
-        {
-            "Title": "woke threesome.png",
-            "Ref": "require('../images/woke threesome.png')"
-        }
-    ],
-    [
-        {
-            "Title": "dogs have mail too, it is\u2026.png",
-            "Ref": "require('../images/dogs have mail too, it is\u2026.png')"
-        }
-    ],
-    [
-        {
-            "Title": "job market for white men.png",
-            "Ref": "require('../images/job market for white men.png')"
-        }
-    ],
-    [
-        {
-            "Title": "four-legged dialogues.png",
-            "Ref": "require('../images/four-legged dialogues.png')"
-        }
-    ],
-    [
-        {
-            "Title": "meanwhile in Europe electricity prices explode.png",
-            "Ref": "require('../images/meanwhile in Europe electricity prices explode.png')"
-        }
-    ],
-    [
-        {
-            "Title": "crypto digger.png",
-            "Ref": "require('../images/crypto digger.png')"
-        }
-    ],
-    [
-        {
-            "Title": "finer than I will ever.jpeg",
-            "Ref": "require('../images/finer than I will ever.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "crypto imbecile.jpeg",
-            "Ref": "require('../images/crypto imbecile.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "bootlegger and pod beggar.png",
-            "Ref": "require('../images/bootlegger and pod beggar.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Do NOT, I repeat NOT, help me Dr. Dick.png",
-            "Ref": "require('../images/Do NOT, I repeat NOT, help me Dr. Dick.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Be better.png",
-            "Ref": "require('../images/Be better.png')"
-        }
-    ],
-    [
-        {
-            "Title": "A.I. \u2013 only just getting started.png",
-            "Ref": "require('../images/A.I. \u2013 only just getting started.png')"
-        }
-    ],
-    [
-        {
-            "Title": "no talk too awkward.png",
-            "Ref": "require('../images/no talk too awkward.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Thomas Bayes.png",
-            "Ref": "require('../images/Thomas Bayes.png')"
-        }
-    ],
-    [
-        {
-            "Title": "to shave or not to shave.png",
-            "Ref": "require('../images/to shave or not to shave.png')"
-        }
-    ],
-    [
-        {
-            "Title": "not dipping.png",
-            "Ref": "require('../images/not dipping.png')"
-        }
-    ],
-    [
-        {
-            "Title": "step count question.png",
-            "Ref": "require('../images/step count question.png')"
-        }
-    ],
-    [
-        {
-            "Title": "crypto love.png",
-            "Ref": "require('../images/crypto love.png')"
-        }
-    ],
-    [
-        {
-            "Title": "handsome selfie.png",
-            "Ref": "require('../images/handsome selfie.png')"
-        }
-    ],
-    [
-        {
-            "Title": "only deeds are real.jpeg",
-            "Ref": "require('../images/only deeds are real.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "some people like to block.jpeg",
-            "Ref": "require('../images/some people like to block.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "green hater.jpeg",
-            "Ref": "require('../images/green hater.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "finally proven women are superior to men.png",
-            "Ref": "require('../images/finally proven women are superior to men.png')"
-        }
-    ],
-    [
-        {
-            "Title": "premature napping.jpeg",
-            "Ref": "require('../images/premature napping.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT sellers make baby Jesus cry.jpeg",
-            "Ref": "require('../images/NFT sellers make baby Jesus cry.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "no nap because cloud.png",
-            "Ref": "require('../images/no nap because cloud.png')"
-        }
-    ],
-    [
-        {
-            "Title": "podcasting slump.jpeg",
-            "Ref": "require('../images/podcasting slump.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Pope sometimes is not catholic.jpeg",
-            "Ref": "require('../images/Pope sometimes is not catholic.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "rain joy.jpeg",
-            "Ref": "require('../images/rain joy.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "everyone is art critic.jpeg",
-            "Ref": "require('../images/everyone is art critic.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "cats vs dogs cuteness.png",
-            "Ref": "require('../images/cats vs dogs cuteness.png')"
-        }
-    ],
-    [
-        {
-            "Title": "bitcoin above everything.png",
-            "Ref": "require('../images/bitcoin above everything.png')"
-        }
-    ],
-    [
-        {
-            "Title": "podnapping.jpeg",
-            "Ref": "require('../images/podnapping.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "monkey business.jpeg",
-            "Ref": "require('../images/monkey business.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Russian agenda.png",
-            "Ref": "require('../images/Russian agenda.png')"
-        }
-    ],
-    [
-        {
-            "Title": "happy people ruin everything for the rest of us, how dare they.jpeg",
-            "Ref": "require('../images/happy people ruin everything for the rest of us, how dare they.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "capitalist agenda.png",
-            "Ref": "require('../images/capitalist agenda.png')"
-        }
-    ],
-    [
-        {
-            "Title": "heatwave blues.jpeg",
-            "Ref": "require('../images/heatwave blues.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "microphone advice misunderstood.png",
-            "Ref": "require('../images/microphone advice misunderstood.png')"
-        }
-    ],
-    [
-        {
-            "Title": "crypto waken kraken.png",
-            "Ref": "require('../images/crypto waken kraken.png')"
-        }
-    ],
-    [
-        {
-            "Title": "meanwhile in Scotland.png",
-            "Ref": "require('../images/meanwhile in Scotland.png')"
-        }
-    ],
-    [
-        {
-            "Title": "some groups have superpowers.png",
-            "Ref": "require('../images/some groups have superpowers.png')"
-        }
-    ],
-    [
-        {
-            "Title": "selfish elderly.png",
-            "Ref": "require('../images/selfish elderly.png')"
-        }
-    ],
-    [
-        {
-            "Title": "fantasy counts as reality if it works.jpeg",
-            "Ref": "require('../images/fantasy counts as reality if it works.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "daily step count goal.png",
-            "Ref": "require('../images/daily step count goal.png')"
-        }
-    ],
-    [
-        {
-            "Title": "daily step count goal.png",
-            "Ref": "require('../images/daily step count goal.png')"
-        }
-    ],
-    [
-        {
-            "Title": "not everyone wants to be podcaster.png",
-            "Ref": "require('../images/not everyone wants to be podcaster.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Bitcoin is a fire of Love.png",
-            "Ref": "require('../images/Bitcoin is a fire of Love.png')"
-        }
-    ],
-    [
-        {
-            "Title": "developer advocate \u2013 real ones to berate.png",
-            "Ref": "require('../images/developer advocate \u2013 real ones to berate.png')"
-        }
-    ],
-    [
-        {
-            "Title": "mean lean hater machine \u2013 scum of the social networks.jpeg",
-            "Ref": "require('../images/mean lean hater machine \u2013 scum of the social networks.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "real life NFT.png",
-            "Ref": "require('../images/real life NFT.png')"
-        }
-    ],
-    [
-        {
-            "Title": "the Algorithms, both of them.jpeg",
-            "Ref": "require('../images/the Algorithms, both of them.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "All the cash to Ukraine.png",
-            "Ref": "require('../images/All the cash to Ukraine.png')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT pity.png",
-            "Ref": "require('../images/NFT pity.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Amazon to buy iRobot.png",
-            "Ref": "require('../images/Amazon to buy iRobot.png')"
-        }
-    ],
-    [
-        {
-            "Title": "No chances for white men in job market.png",
-            "Ref": "require('../images/No chances for white men in job market.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Luck comes to open people, sometimes at least.png",
-            "Ref": "require('../images/Luck comes to open people, sometimes at least.png')"
-        }
-    ],
-    [
-        {
-            "Title": "point of being alive.png",
-            "Ref": "require('../images/point of being alive.png')"
-        }
-    ],
-    [
-        {
-            "Title": "shortage of blog visitors.jpeg",
-            "Ref": "require('../images/shortage of blog visitors.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "must-have Part of Good NFT is\u2026.png",
-            "Ref": "require('../images/must-have Part of Good NFT is\u2026.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Life \u2013 always new surprises.png",
-            "Ref": "require('../images/Life \u2013 always new surprises.png')"
-        }
-    ],
-    [
-        {
-            "Title": "she is swimmer not to be slimmer.png",
-            "Ref": "require('../images/she is swimmer not to be slimmer.png')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT failure.png",
-            "Ref": "require('../images/NFT failure.png')"
-        }
-    ],
-    [
-        {
-            "Title": "zero work ethic.png",
-            "Ref": "require('../images/zero work ethic.png')"
-        }
-    ],
-    [
-        {
-            "Title": "nature or nurture.png",
-            "Ref": "require('../images/nature or nurture.png')"
-        }
-    ],
-    [
-        {
-            "Title": "more signs.png",
-            "Ref": "require('../images/more signs.png')"
-        }
-    ],
-    [
-        {
-            "Title": "bug diet bug POV, part 2.png",
-            "Ref": "require('../images/bug diet bug POV, part 2.png')"
-        }
-    ],
-    [
-        {
-            "Title": "bug diet bug POV.png",
-            "Ref": "require('../images/bug diet bug POV.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Pepe wants $4.1 too.png",
-            "Ref": "require('../images/Pepe wants $4.1 too.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Pepe wants $4.1 too.png",
-            "Ref": "require('../images/Pepe wants $4.1 too.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Lazy Pom.jpeg",
-            "Ref": "require('../images/Lazy Pom.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "decrescendo of my innuendo.jpeg",
-            "Ref": "require('../images/decrescendo of my innuendo.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "fake news.jpeg",
-            "Ref": "require('../images/fake news.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "moistly moist.jpeg",
-            "Ref": "require('../images/moistly moist.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "dexterity clarity.png",
-            "Ref": "require('../images/dexterity clarity.png')"
-        }
-    ],
-    [
-        {
-            "Title": "2 reasons.png",
-            "Ref": "require('../images/2 reasons.png')"
-        }
-    ],
-    [
-        {
-            "Title": "evil or not.png",
-            "Ref": "require('../images/evil or not.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Taiwan visit.png",
-            "Ref": "require('../images/Taiwan visit.png')"
-        }
-    ],
-    [
-        {
-            "Title": "fans not enough, part 2.png",
-            "Ref": "require('../images/fans not enough, part 2.png')"
-        }
-    ],
-    [
-        {
-            "Title": "fans not enough, part 1.png",
-            "Ref": "require('../images/fans not enough, part 1.png')"
-        }
-    ],
-    [
-        {
-            "Title": "have one but do not be one.png",
-            "Ref": "require('../images/have one but do not be one.png')"
-        }
-    ],
-    [
-        {
-            "Title": "no moar.jpeg",
-            "Ref": "require('../images/no moar.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "flying dog.png",
-            "Ref": "require('../images/flying dog.png')"
-        }
-    ],
-    [
-        {
-            "Title": "why aliens probe what they probe.jpeg",
-            "Ref": "require('../images/why aliens probe what they probe.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "not everyone likes em.jpeg",
-            "Ref": "require('../images/not everyone likes em.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "not everyone likes em.jpeg",
-            "Ref": "require('../images/not everyone likes em.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "some hobbies are way of life not merely hobbies.png",
-            "Ref": "require('../images/some hobbies are way of life not merely hobbies.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Love is Lit.png",
-            "Ref": "require('../images/Love is Lit.png')"
-        }
-    ],
-    [
-        {
-            "Title": "difficult question.png",
-            "Ref": "require('../images/difficult question.png')"
-        }
-    ],
-    [
-        {
-            "Title": "tattoo to woo.jpeg",
-            "Ref": "require('../images/tattoo to woo.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Linux retardation syndrome.png",
-            "Ref": "require('../images/Linux retardation syndrome.png')"
-        }
-    ],
-    [
-        {
-            "Title": "crypto wars.jpeg",
-            "Ref": "require('../images/crypto wars.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "this denial of service, makes me nervous.png",
-            "Ref": "require('../images/this denial of service, makes me nervous.png')"
-        }
-    ],
-    [
-        {
-            "Title": "visualization inclination.jpeg",
-            "Ref": "require('../images/visualization inclination.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Viking delusion.png",
-            "Ref": "require('../images/Viking delusion.png')"
-        }
-    ],
-    [
-        {
-            "Title": "A.I.-generated art better than human-made.png",
-            "Ref": "require('../images/A.I.-generated art better than human-made.png')"
-        }
-    ],
-    [
-        {
-            "Title": "mustache team assemble.png",
-            "Ref": "require('../images/mustache team assemble.png')"
-        }
-    ],
-    [
-        {
-            "Title": "it is about high fidelity voice.png",
-            "Ref": "require('../images/it is about high fidelity voice.png')"
-        }
-    ],
-    [
-        {
-            "Title": "domain disdain.png",
-            "Ref": "require('../images/domain disdain.png')"
-        }
-    ],
-    [
-        {
-            "Title": "belated realisation.jpeg",
-            "Ref": "require('../images/belated realisation.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "how to use microphone.png",
-            "Ref": "require('../images/how to use microphone.png')"
-        }
-    ],
-    [
-        {
-            "Title": "asocial attitude.png",
-            "Ref": "require('../images/asocial attitude.png')"
-        }
-    ],
-    [
-        {
-            "Title": "how to survive heatwave.png",
-            "Ref": "require('../images/how to survive heatwave.png')"
-        }
-    ],
-    [
-        {
-            "Title": "bitcoin love.png",
-            "Ref": "require('../images/bitcoin love.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Star Wars or Star Trek .jpeg",
-            "Ref": "require('../images/Star Wars or Star Trek .jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Pareidolia redux.png",
-            "Ref": "require('../images/Pareidolia redux.png')"
-        }
-    ],
-    [
-        {
-            "Title": "sumo lover.jpeg",
-            "Ref": "require('../images/sumo lover.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Help me, doctor Birx.jpeg",
-            "Ref": "require('../images/Help me, doctor Birx.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Chomsky malarkey.png",
-            "Ref": "require('../images/Chomsky malarkey.png')"
-        }
-    ],
-    [
-        {
-            "Title": "pain of othering is real.png",
-            "Ref": "require('../images/pain of othering is real.png')"
-        }
-    ],
-    [
-        {
-            "Title": "hard work.jpeg",
-            "Ref": "require('../images/hard work.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "hotness barrier.png",
-            "Ref": "require('../images/hotness barrier.png')"
-        }
-    ],
-    [
-        {
-            "Title": "meme defence.png",
-            "Ref": "require('../images/meme defence.png')"
-        }
-    ],
-    [
-        {
-            "Title": "genetic native American.png",
-            "Ref": "require('../images/genetic native American.png')"
-        }
-    ],
-    [
-        {
-            "Title": "mood disgrace.jpeg",
-            "Ref": "require('../images/mood disgrace.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "nodding in agreement.png",
-            "Ref": "require('../images/nodding in agreement.png')"
-        }
-    ],
-    [
-        {
-            "Title": "garlic whiff.jpeg",
-            "Ref": "require('../images/garlic whiff.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Reptiles like warm temperatures.png",
-            "Ref": "require('../images/Reptiles like warm temperatures.png')"
-        }
-    ],
-    [
-        {
-            "Title": "how to find yourself \u2013 easy to follow instructions.png",
-            "Ref": "require('../images/how to find yourself \u2013 easy to follow instructions.png')"
-        }
-    ],
-    [
-        {
-            "Title": "value of value in podcasting.jpeg",
-            "Ref": "require('../images/value of value in podcasting.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "North Carolina incident.png",
-            "Ref": "require('../images/North Carolina incident.png')"
-        }
-    ],
-    [
-        {
-            "Title": "furrtastic.png",
-            "Ref": "require('../images/furrtastic.png')"
-        }
-    ],
-    [
-        {
-            "Title": "cute shooter.png",
-            "Ref": "require('../images/cute shooter.png')"
-        }
-    ],
-    [
-        {
-            "Title": "the best content in podcasting is\u2026.jpeg",
-            "Ref": "require('../images/the best content in podcasting is\u2026.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "nobody boosts me.jpeg",
-            "Ref": "require('../images/nobody boosts me.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "what is boost.png",
-            "Ref": "require('../images/what is boost.png')"
-        }
-    ],
-    [
-        {
-            "Title": "arrogant NFT scammer.jpeg",
-            "Ref": "require('../images/arrogant NFT scammer.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Apple still fails artists.jpeg",
-            "Ref": "require('../images/Apple still fails artists.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Podcasting 2.0 boosting.jpeg",
-            "Ref": "require('../images/Podcasting 2.0 boosting.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "humid air bad for dog.png",
-            "Ref": "require('../images/humid air bad for dog.png')"
-        }
-    ],
-    [
-        {
-            "Title": "pulling knobs opens doors.jpeg",
-            "Ref": "require('../images/pulling knobs opens doors.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "advice to climate change deniers.jpeg",
-            "Ref": "require('../images/advice to climate change deniers.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Twitter doubts.png",
-            "Ref": "require('../images/Twitter doubts.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Work From Home fatigue.jpeg",
-            "Ref": "require('../images/Work From Home fatigue.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "heatwave explained.jpeg",
-            "Ref": "require('../images/heatwave explained.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "wickedcasting.png",
-            "Ref": "require('../images/wickedcasting.png')"
-        }
-    ],
-    [
-        {
-            "Title": "lizards like heatwave.jpeg",
-            "Ref": "require('../images/lizards like heatwave.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "alien doubter.jpeg",
-            "Ref": "require('../images/alien doubter.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "podwnker.jpeg",
-            "Ref": "require('../images/podwnker.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "cntcasting.png",
-            "Ref": "require('../images/cntcasting.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Politeness Ain\u2019t Got Time for That.jpeg",
-            "Ref": "require('../images/Politeness Ain\u2019t Got Time for That.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "bitcoin digger.png",
-            "Ref": "require('../images/bitcoin digger.png')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT \u2013 the new gambling.png",
-            "Ref": "require('../images/NFT \u2013 the new gambling.png')"
-        }
-    ],
-    [
-        {
-            "Title": "time to boycott Disney+ streaming service.png",
-            "Ref": "require('../images/time to boycott Disney+ streaming service.png')"
-        }
-    ],
-    [
-        {
-            "Title": "butt anonymous.jpeg",
-            "Ref": "require('../images/butt anonymous.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "war against greenies.jpeg",
-            "Ref": "require('../images/war against greenies.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT billionaire.png",
-            "Ref": "require('../images/NFT billionaire.png')"
-        }
-    ],
-    [
-        {
-            "Title": "angry at horse.png",
-            "Ref": "require('../images/angry at horse.png')"
-        }
-    ],
-    [
-        {
-            "Title": "drone punishment.jpeg",
-            "Ref": "require('../images/drone punishment.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "honest hoe.png",
-            "Ref": "require('../images/honest hoe.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Make your move, If you dare, What you say, I do not care.png",
-            "Ref": "require('../images/Make your move, If you dare, What you say, I do not care.png')"
-        }
-    ],
-    [
-        {
-            "Title": "Nested Simulations.png",
-            "Ref": "require('../images/Nested Simulations.png')"
-        }
-    ],
-    [
-        {
-            "Title": "masking time over.jpeg",
-            "Ref": "require('../images/masking time over.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "How to protect my savings from inflation.png",
-            "Ref": "require('../images/How to protect my savings from inflation.png')"
-        }
-    ],
-    [
-        {
-            "Title": "no Podcasting 2.0 for you.png",
-            "Ref": "require('../images/no Podcasting 2.0 for you.png')"
-        }
-    ],
-    [
-        {
-            "Title": "the biggest lie.png",
-            "Ref": "require('../images/the biggest lie.png')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT seller.png",
-            "Ref": "require('../images/NFT seller.png')"
-        }
-    ],
-    [
-        {
-            "Title": "war zone podcasting.jpeg",
-            "Ref": "require('../images/war zone podcasting.jpeg')"
-        }
-    ],
-    [
-        {
-            "Title": "Trump 2024.png",
-            "Ref": "require('../images/Trump 2024.png')"
-        }
-    ],
-    [
-        {
-            "Title": "NFT frustrations buying.png",
-            "Ref": "require('../images/NFT frustrations buying.png')"
-        }
-    ]
+    {
+        "Title": "A-Word Lesson",
+        "Ref": "require('../images/A-WordLesson')"
+    },
+    {
+        "Title": "Europe sinks",
+        "Ref": "require('../images/Europesinks')"
+    },
+    {
+        "Title": "meme excuse",
+        "Ref": "require('../images/memeexcuse')"
+    },
+    {
+        "Title": "everything but jabs",
+        "Ref": "require('../images/everythingbutjabs')"
+    },
+    {
+        "Title": "when again",
+        "Ref": "require('../images/whenagain?')"
+    },
+    {
+        "Title": "woke threesome",
+        "Ref": "require('../images/wokethreesome')"
+    },
+    {
+        "Title": "dogs have mail too, it is\u2026",
+        "Ref": "require('../images/dogshavemailtoo,itis\u2026')"
+    },
+    {
+        "Title": "job market for white men",
+        "Ref": "require('../images/jobmarketforwhitemen')"
+    },
+    {
+        "Title": "four-legged dialogues",
+        "Ref": "require('../images/four-leggeddialogues')"
+    },
+    {
+        "Title": "meanwhile in Europe electricity prices explode",
+        "Ref": "require('../images/meanwhileinEurope:electricitypricesexplode')"
+    },
+    {
+        "Title": "crypto digger",
+        "Ref": "require('../images/cryptodigger')"
+    },
+    {
+        "Title": "finer than I will ever",
+        "Ref": "require('../images/finerthanIwillever')"
+    },
+    {
+        "Title": "crypto imbecile",
+        "Ref": "require('../images/cryptoimbecile')"
+    },
+    {
+        "Title": "bootlegger and pod beggar",
+        "Ref": "require('../images/bootleggerandpodbeggar')"
+    },
+    {
+        "Title": "Do NOT, I repeat NOT, help me Dr. Dick",
+        "Ref": "require('../images/DoNOT,IrepeatNOT,helpmeDr.Dick!')"
+    },
+    {
+        "Title": "Be better",
+        "Ref": "require('../images/Bebetter!')"
+    },
+    {
+        "Title": "A.I. \u2013 only just getting started",
+        "Ref": "require('../images/A.I.\u2013onlyjustgettingstarted')"
+    },
+    {
+        "Title": "no talk too awkward",
+        "Ref": "require('../images/notalktooawkward')"
+    },
+    {
+        "Title": "Thomas Bayes",
+        "Ref": "require('../images/ThomasBayes')"
+    },
+    {
+        "Title": "to shave or not to shave",
+        "Ref": "require('../images/toshaveornottoshave?')"
+    },
+    {
+        "Title": "not dipping",
+        "Ref": "require('../images/notdipping')"
+    },
+    {
+        "Title": "step count question",
+        "Ref": "require('../images/stepcountquestion')"
+    },
+    {
+        "Title": "crypto love",
+        "Ref": "require('../images/cryptolove')"
+    },
+    {
+        "Title": "handsome selfie",
+        "Ref": "require('../images/handsomeselfie')"
+    },
+    {
+        "Title": "only deeds are real",
+        "Ref": "require('../images/onlydeedsarereal')"
+    },
+    {
+        "Title": "some people like to block",
+        "Ref": "require('../images/somepeopleliketoblock')"
+    },
+    {
+        "Title": "green hater",
+        "Ref": "require('../images/greenhater')"
+    },
+    {
+        "Title": "finally proven women are superior to men",
+        "Ref": "require('../images/finallyproven:womenaresuperiortomen')"
+    },
+    {
+        "Title": "premature napping",
+        "Ref": "require('../images/prematurenapping')"
+    },
+    {
+        "Title": "NFT sellers make baby Jesus cry",
+        "Ref": "require('../images/NFTsellersmakebabyJesuscry')"
+    },
+    {
+        "Title": "no nap because cloud",
+        "Ref": "require('../images/nonapbecausecloud')"
+    },
+    {
+        "Title": "podcasting slump",
+        "Ref": "require('../images/podcastingslump')"
+    },
+    {
+        "Title": "Pope sometimes is not catholic",
+        "Ref": "require('../images/Popesometimesisnotcatholic')"
+    },
+    {
+        "Title": "rain joy",
+        "Ref": "require('../images/rainjoy')"
+    },
+    {
+        "Title": "everyone is art critic",
+        "Ref": "require('../images/everyoneisartcritic')"
+    },
+    {
+        "Title": "cats vs dogs cuteness",
+        "Ref": "require('../images/catsvsdogs:cuteness')"
+    },
+    {
+        "Title": "bitcoin above everything",
+        "Ref": "require('../images/bitcoinaboveeverything')"
+    },
+    {
+        "Title": "podnapping",
+        "Ref": "require('../images/podnapping')"
+    },
+    {
+        "Title": "monkey business",
+        "Ref": "require('../images/monkeybusiness')"
+    },
+    {
+        "Title": "Russian agenda",
+        "Ref": "require('../images/Russianagenda')"
+    },
+    {
+        "Title": "happy people ruin everything for the rest of us, how dare they",
+        "Ref": "require('../images/happypeopleruineverythingfortherestofus,howdarethey?')"
+    },
+    {
+        "Title": "capitalist agenda",
+        "Ref": "require('../images/capitalistagenda')"
+    },
+    {
+        "Title": "heatwave blues",
+        "Ref": "require('../images/heatwaveblues')"
+    },
+    {
+        "Title": "microphone advice misunderstood",
+        "Ref": "require('../images/microphoneadvicemisunderstood')"
+    },
+    {
+        "Title": "crypto waken kraken",
+        "Ref": "require('../images/cryptowakenkraken')"
+    },
+    {
+        "Title": "meanwhile in Scotland",
+        "Ref": "require('../images/meanwhileinScotland')"
+    },
+    {
+        "Title": "some groups have superpowers",
+        "Ref": "require('../images/somegroupshavesuperpowers')"
+    },
+    {
+        "Title": "selfish elderly",
+        "Ref": "require('../images/selfishelderly')"
+    },
+    {
+        "Title": "fantasy counts as reality if it works",
+        "Ref": "require('../images/fantasycountsasrealityifitworks')"
+    },
+    {
+        "Title": "daily step count goal",
+        "Ref": "require('../images/dailystepcountgoal')"
+    },
+    {
+        "Title": "daily step count goal",
+        "Ref": "require('../images/dailystepcountgoal')"
+    },
+    {
+        "Title": "not everyone wants to be podcaster",
+        "Ref": "require('../images/noteveryonewantstobepodcaster')"
+    },
+    {
+        "Title": "Bitcoin is a fire of Love",
+        "Ref": "require('../images/BitcoinisafireofLove')"
+    },
+    {
+        "Title": "developer advocate \u2013 real ones to berate",
+        "Ref": "require('../images/developeradvocate\u2013realonestoberate')"
+    },
+    {
+        "Title": "mean lean hater machine \u2013 scum of the social networks",
+        "Ref": "require('../images/meanleanhatermachine\u2013scumofthesocialnetworks')"
+    },
+    {
+        "Title": "real life NFT",
+        "Ref": "require('../images/reallifeNFT')"
+    },
+    {
+        "Title": "the Algorithms, both of them",
+        "Ref": "require('../images/theAlgorithms,bothofthem')"
+    },
+    {
+        "Title": "All the cash to Ukraine",
+        "Ref": "require('../images/AllthecashtoUkraine')"
+    },
+    {
+        "Title": "NFT pity",
+        "Ref": "require('../images/NFTpity')"
+    },
+    {
+        "Title": "Amazon to buy iRobot",
+        "Ref": "require('../images/AmazontobuyiRobot')"
+    },
+    {
+        "Title": "No chances for white men in job market",
+        "Ref": "require('../images/Nochancesforwhitemeninjobmarket')"
+    },
+    {
+        "Title": "Luck comes to open people, sometimes at least",
+        "Ref": "require('../images/Luckcomestoopenpeople,sometimesatleast')"
+    },
+    {
+        "Title": "point of being alive",
+        "Ref": "require('../images/pointofbeingalive')"
+    },
+    {
+        "Title": "shortage of blog visitors",
+        "Ref": "require('../images/shortageofblogvisitors')"
+    },
+    {
+        "Title": "must-have Part of Good NFT is\u2026",
+        "Ref": "require('../images/must-havePartofGoodNFTis\u2026?')"
+    },
+    {
+        "Title": "Life \u2013 always new surprises",
+        "Ref": "require('../images/Life\u2013alwaysnewsurprises')"
+    },
+    {
+        "Title": "she is swimmer not to be slimmer",
+        "Ref": "require('../images/sheisswimmernottobeslimmer')"
+    },
+    {
+        "Title": "NFT failure",
+        "Ref": "require('../images/NFTfailure')"
+    },
+    {
+        "Title": "zero work ethic",
+        "Ref": "require('../images/zeroworkethic')"
+    },
+    {
+        "Title": "nature or nurture",
+        "Ref": "require('../images/natureornurture?')"
+    },
+    {
+        "Title": "more signs",
+        "Ref": "require('../images/moresigns')"
+    },
+    {
+        "Title": "bug diet bug POV, part 2",
+        "Ref": "require('../images/bugdiet:bugPOV,part2')"
+    },
+    {
+        "Title": "bug diet bug POV",
+        "Ref": "require('../images/bugdiet:bugPOV')"
+    },
+    {
+        "Title": "Pepe wants $4.1 too",
+        "Ref": "require('../images/Pepewants$4.1too')"
+    },
+    {
+        "Title": "Pepe wants $4.1 too",
+        "Ref": "require('../images/Pepewants$4.1too')"
+    },
+    {
+        "Title": "Lazy Pom",
+        "Ref": "require('../images/LazyPom')"
+    },
+    {
+        "Title": "decrescendo of my innuendo",
+        "Ref": "require('../images/decrescendoofmyinnuendo')"
+    },
+    {
+        "Title": "fake news",
+        "Ref": "require('../images/fakenews')"
+    },
+    {
+        "Title": "moistly moist",
+        "Ref": "require('../images/moistlymoist')"
+    },
+    {
+        "Title": "dexterity clarity",
+        "Ref": "require('../images/dexterityclarity')"
+    },
+    {
+        "Title": "2 reasons",
+        "Ref": "require('../images/2reasons')"
+    },
+    {
+        "Title": "evil or not",
+        "Ref": "require('../images/evilornot?')"
+    },
+    {
+        "Title": "Taiwan visit",
+        "Ref": "require('../images/Taiwanvisit')"
+    },
+    {
+        "Title": "fans not enough, part 2",
+        "Ref": "require('../images/fansnotenough,part2')"
+    },
+    {
+        "Title": "fans not enough, part 1",
+        "Ref": "require('../images/fansnotenough,part1')"
+    },
+    {
+        "Title": "have one but do not be one",
+        "Ref": "require('../images/haveonebutdonotbeone!')"
+    },
+    {
+        "Title": "no moar",
+        "Ref": "require('../images/nomoar')"
+    },
+    {
+        "Title": "flying dog",
+        "Ref": "require('../images/flyingdog')"
+    },
+    {
+        "Title": "why aliens probe what they probe",
+        "Ref": "require('../images/whyaliensprobewhattheyprobe')"
+    },
+    {
+        "Title": "not everyone likes em",
+        "Ref": "require('../images/noteveryonelikesem')"
+    },
+    {
+        "Title": "not everyone likes em",
+        "Ref": "require('../images/noteveryonelikesem')"
+    },
+    {
+        "Title": "some hobbies are way of life not merely hobbies",
+        "Ref": "require('../images/somehobbiesarewayoflifenotmerelyhobbies')"
+    },
+    {
+        "Title": "Love is Lit",
+        "Ref": "require('../images/LoveisLit')"
+    },
+    {
+        "Title": "difficult question",
+        "Ref": "require('../images/difficultquestion')"
+    },
+    {
+        "Title": "tattoo to woo",
+        "Ref": "require('../images/tattootowoo')"
+    },
+    {
+        "Title": "Linux retardation syndrome",
+        "Ref": "require('../images/Linuxretardationsyndrome')"
+    },
+    {
+        "Title": "crypto wars",
+        "Ref": "require('../images/cryptowars')"
+    },
+    {
+        "Title": "this denial of service, makes me nervous",
+        "Ref": "require('../images/thisdenialofservice,makesmenervous')"
+    },
+    {
+        "Title": "visualization inclination",
+        "Ref": "require('../images/visualizationinclination')"
+    },
+    {
+        "Title": "Viking delusion",
+        "Ref": "require('../images/Vikingdelusion')"
+    },
+    {
+        "Title": "A.I.-generated art better than human-made",
+        "Ref": "require('../images/A.I.-generatedartbetterthanhuman-made')"
+    },
+    {
+        "Title": "mustache team assemble",
+        "Ref": "require('../images/mustacheteamassemble')"
+    },
+    {
+        "Title": "it is about high fidelity voice",
+        "Ref": "require('../images/itisabouthighfidelityvoice')"
+    },
+    {
+        "Title": "domain disdain",
+        "Ref": "require('../images/domaindisdain')"
+    },
+    {
+        "Title": "belated realisation",
+        "Ref": "require('../images/belatedrealisation')"
+    },
+    {
+        "Title": "how to use microphone",
+        "Ref": "require('../images/howtousemicrophone')"
+    },
+    {
+        "Title": "asocial attitude",
+        "Ref": "require('../images/asocialattitude')"
+    },
+    {
+        "Title": "how to survive heatwave",
+        "Ref": "require('../images/howtosurviveheatwave')"
+    },
+    {
+        "Title": "bitcoin love",
+        "Ref": "require('../images/bitcoinlove')"
+    },
+    {
+        "Title": "Star Wars or Star Trek ",
+        "Ref": "require('../images/StarWarsorStarTrek?')"
+    },
+    {
+        "Title": "Pareidolia redux",
+        "Ref": "require('../images/Pareidoliaredux')"
+    },
+    {
+        "Title": "sumo lover",
+        "Ref": "require('../images/sumolover')"
+    },
+    {
+        "Title": "Help me, doctor Birx",
+        "Ref": "require('../images/Helpme,doctorBirx')"
+    },
+    {
+        "Title": "Chomsky malarkey",
+        "Ref": "require('../images/Chomskymalarkey')"
+    },
+    {
+        "Title": "pain of othering is real",
+        "Ref": "require('../images/painofotheringisreal')"
+    },
+    {
+        "Title": "hard work",
+        "Ref": "require('../images/hardwork')"
+    },
+    {
+        "Title": "hotness barrier",
+        "Ref": "require('../images/hotnessbarrier')"
+    },
+    {
+        "Title": "meme defence",
+        "Ref": "require('../images/memedefence')"
+    },
+    {
+        "Title": "genetic native American",
+        "Ref": "require('../images/geneticnativeAmerican')"
+    },
+    {
+        "Title": "mood disgrace",
+        "Ref": "require('../images/mooddisgrace')"
+    },
+    {
+        "Title": "nodding in agreement",
+        "Ref": "require('../images/noddinginagreement')"
+    },
+    {
+        "Title": "garlic whiff",
+        "Ref": "require('../images/garlicwhiff')"
+    },
+    {
+        "Title": "Reptiles like warm temperatures",
+        "Ref": "require('../images/Reptileslikewarmtemperatures')"
+    },
+    {
+        "Title": "how to find yourself \u2013 easy to follow instructions",
+        "Ref": "require('../images/howtofindyourself\u2013easytofollowinstructions')"
+    },
+    {
+        "Title": "value of value in podcasting",
+        "Ref": "require('../images/valueofvalueinpodcasting')"
+    },
+    {
+        "Title": "North Carolina incident",
+        "Ref": "require('../images/NorthCarolinaincident')"
+    },
+    {
+        "Title": "furrtastic",
+        "Ref": "require('../images/furrtastic')"
+    },
+    {
+        "Title": "cute shooter",
+        "Ref": "require('../images/cuteshooter')"
+    },
+    {
+        "Title": "the best content in podcasting is\u2026",
+        "Ref": "require('../images/thebestcontentinpodcastingis\u2026')"
+    },
+    {
+        "Title": "nobody boosts me",
+        "Ref": "require('../images/nobodyboostsme')"
+    },
+    {
+        "Title": "what is boost",
+        "Ref": "require('../images/whatisboost?')"
+    },
+    {
+        "Title": "arrogant NFT scammer",
+        "Ref": "require('../images/arrogantNFTscammer')"
+    },
+    {
+        "Title": "Apple still fails artists",
+        "Ref": "require('../images/Applestillfailsartists')"
+    },
+    {
+        "Title": "Podcasting 2.0 boosting",
+        "Ref": "require('../images/Podcasting2.0boosting')"
+    },
+    {
+        "Title": "humid air bad for dog",
+        "Ref": "require('../images/humidairbadfordog')"
+    },
+    {
+        "Title": "pulling knobs opens doors",
+        "Ref": "require('../images/pullingknobsopensdoors')"
+    },
+    {
+        "Title": "advice to climate change deniers",
+        "Ref": "require('../images/advicetoclimatechangedeniers')"
+    },
+    {
+        "Title": "Twitter doubts",
+        "Ref": "require('../images/Twitterdoubts')"
+    },
+    {
+        "Title": "Work From Home fatigue",
+        "Ref": "require('../images/WorkFromHomefatigue')"
+    },
+    {
+        "Title": "heatwave explained",
+        "Ref": "require('../images/heatwaveexplained')"
+    },
+    {
+        "Title": "wickedcasting",
+        "Ref": "require('../images/wickedcasting')"
+    },
+    {
+        "Title": "lizards like heatwave",
+        "Ref": "require('../images/lizardslikeheatwave')"
+    },
+    {
+        "Title": "alien doubter",
+        "Ref": "require('../images/aliendoubter')"
+    },
+    {
+        "Title": "podwnker",
+        "Ref": "require('../images/podw*nker')"
+    },
+    {
+        "Title": "cntcasting",
+        "Ref": "require('../images/c*ntcasting')"
+    },
+    {
+        "Title": "Politeness Ain\u2019t Got Time for That",
+        "Ref": "require('../images/Politeness?Ain\u2019tGotTimeforThat')"
+    },
+    {
+        "Title": "bitcoin digger",
+        "Ref": "require('../images/bitcoindigger')"
+    },
+    {
+        "Title": "NFT \u2013 the new gambling",
+        "Ref": "require('../images/NFT\u2013thenewgambling')"
+    },
+    {
+        "Title": "time to boycott Disney+ streaming service",
+        "Ref": "require('../images/timetoboycottDisney+streamingservice')"
+    },
+    {
+        "Title": "butt anonymous",
+        "Ref": "require('../images/buttanonymous')"
+    },
+    {
+        "Title": "war against greenies",
+        "Ref": "require('../images/waragainstgreenies')"
+    },
+    {
+        "Title": "NFT billionaire",
+        "Ref": "require('../images/NFTbillionaire')"
+    },
+    {
+        "Title": "angry at horse",
+        "Ref": "require('../images/angryathorse')"
+    },
+    {
+        "Title": "drone punishment",
+        "Ref": "require('../images/dronepunishment')"
+    },
+    {
+        "Title": "honest hoe",
+        "Ref": "require('../images/honesthoe')"
+    },
+    {
+        "Title": "Make your move, If you dare, What you say, I do not care",
+        "Ref": "require('../images/Makeyourmove,Ifyoudare,Whatyousay,Idonotcare')"
+    },
+    {
+        "Title": "Nested Simulations",
+        "Ref": "require('../images/NestedSimulations')"
+    },
+    {
+        "Title": "masking time over",
+        "Ref": "require('../images/maskingtimeover')"
+    },
+    {
+        "Title": "How to protect my savings from inflation",
+        "Ref": "require('../images/Howtoprotectmysavingsfrominflation?')"
+    },
+    {
+        "Title": "no Podcasting 2.0 for you",
+        "Ref": "require('../images/noPodcasting2.0foryou!')"
+    },
+    {
+        "Title": "the biggest lie",
+        "Ref": "require('../images/thebiggestlie')"
+    },
+    {
+        "Title": "NFT seller",
+        "Ref": "require('../images/NFTseller')"
+    },
+    {
+        "Title": "war zone podcasting",
+        "Ref": "require('../images/warzonepodcasting')"
+    },
+    {
+        "Title": "Trump 2024",
+        "Ref": "require('../images/Trump2024')"
+    },
+    {
+        "Title": "NFT frustrations buying",
+        "Ref": "require('../images/NFTfrustrations:buying')"
+    }
 ]
