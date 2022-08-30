@@ -59,7 +59,7 @@ for item in comiclist:
     file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     #Remove spaces from file name
     file_name_clean = file_name_title.translate(str.maketrans('','',string.punctuation))
-    #file_name_clean = ''.join(d for d in item[0] if not d in bad_char_space)
+    file_name_clean = file_name_clean.translate(None, ' \n\t\r') 
     #Add extension to file name
     file_name_ext = file_name_clean +'.'+ extension[1]
     # Create the JSON list
