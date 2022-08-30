@@ -44,7 +44,16 @@ def download_image(location, file_name):
     #Write image file
     with open(os.path.join(dir_path, file_name), "wb") as f:
             f.write(response.content)
- 
+
+#function to clean the file name
+def clean_file_name(string):
+    string = string.translate(str.maketrans('','',string.punctuation))
+    string = string.replace(" ","")
+    string = string.replace("...","")
+    string = string.replace("–","")
+    return string
+
+
 #download the files
 for item in comiclist:
     location = item[1]
@@ -58,8 +67,9 @@ for item in comiclist:
     #Remove bad chars from file name
     file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     #Remove spaces from file name
-    file_name_clean = file_name_title.translate(str.maketrans('','',string.punctuation))
-    file_name_clean = file_name_clean.replace(" ","") 
+    #file_name_clean = file_name_title.translate(str.maketrans('','',string.punctuation))
+    #file_name_clean = file_name_clean.replace(" ","")
+    file_name_clean = clean_file_name(filename_ugly) 
     #Add extension to file name
     file_name_ext = file_name_clean +'.'+ extension[1]
     # Create the JSON list
