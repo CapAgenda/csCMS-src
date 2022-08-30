@@ -25,7 +25,7 @@
     },
     {
         "Title": "dogs have mail too it is",
-        "Ref": "require('../images/dogshavemailtooitis.png')"
+        "Ref": "require('../images/dogshavemailtooitis\u2026.png')"
     },
     {
         "Title": "job market for white men",
@@ -65,7 +65,7 @@
     },
     {
         "Title": "A.I. \u2013 only just getting started",
-        "Ref": "require('../images/AI\u2013onlyjustgettingstarted.png')"
+        "Ref": "require('../images/AIonlyjustgettingstarted.png')"
     },
     {
         "Title": "no talk too awkward",
