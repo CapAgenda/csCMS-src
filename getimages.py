@@ -61,9 +61,9 @@ for item in comiclist:
     file_name_clean = file_name_title.translate(str.maketrans('','',string.punctuation))
     file_name_clean = ''.join(d for d in item[0] if not d in bad_char_space)
     #Add extension to file name
-    file_name = file_name_clean +'.'+ extension[1]
+    file_name_ext = file_name_clean +'.'+ extension[1]
     # Create the JSON list
-    json_list_item = {'Title':str(file_name_title), 'Ref':str("require('../images/")+str(file_name)+"')"}
+    json_list_item = {'Title':str(file_name_title), 'Ref':str("require('../images/")+str(file_name_ext)+"')"}
     comic_json_list.append(json_list_item)
     
     #Run download function  
