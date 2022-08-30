@@ -29,10 +29,6 @@ else:
 #Intialize JSON list
 comic_json_list = []
 
-# initializing bad_chars_lists
-bad_chars = [';', ':', '!', "*", "?", ",","...", "\u2026", "\\"]
-bad_char_space = [" "]
-
 #Set images directory
 dir_path = 'src/images'
 
@@ -67,9 +63,8 @@ for item in comiclist:
     header = h.headers
     content_type = header.get('content-type')
     extension = content_type.split('/')
+    #clean title and file name characters
     file_name_title = clean_title_name(filename_ugly)
-    #Remove bad chars from file name
-    #file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     file_name_clean = clean_file_name(filename_ugly) 
     #Add extension to file name
     file_name_ext = file_name_clean +'.'+ extension[1]
@@ -78,7 +73,7 @@ for item in comiclist:
     comic_json_list.append(json_list_item)
     
     #Run download function  
-   # download_image(location, str(file_name))
+    download_image(location, str(file_name_ext))
     
 # Save JSON list to repo
 jsonString = json.dumps(comic_json_list,  indent=4)
