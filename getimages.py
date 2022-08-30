@@ -47,6 +47,7 @@ def download_image(location, file_name):
 #download the files
 for item in comiclist:
     location = item[1]
+    filename_ugly = item[0]
     # determine and get filetype extension
     h = requests.head(location, allow_redirects=True)
     header = h.headers
@@ -54,9 +55,9 @@ for item in comiclist:
     extension = content_type.split('/')
     
     #Remove bad chars from file name
-    file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
+    file_name_title = filename_ugly.join(b for b in item[0] if not b in bad_chars)
     #Remove spaces from file name
-    file_name_clean = ''.join(d for d in item[0] if not d in bad_char_space)
+    file_name_clean = file_name_title.join(d for d in item[0] if not d in bad_char_space)
     #Add extension to file name
     file_name = file_name_clean +'.'+ extension[1]
     # Create the JSON list
