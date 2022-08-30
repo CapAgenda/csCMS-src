@@ -37,7 +37,7 @@ def download_image(location, file_name):
     #send GET request
     response = requests.get(location)
     file_name = file_name
-    location = item[1]
+    
     #Set images directory
     dir_path = 'src/images'
     #Write image file
@@ -46,6 +46,7 @@ def download_image(location, file_name):
  
 #download the files
 for item in comiclist:
+    location = item[1]
     # determine and get filetype extension
     h = requests.head(location, allow_redirects=True)
     header = h.headers
