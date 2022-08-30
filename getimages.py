@@ -11,7 +11,7 @@ comiclist = []
 
 # Loop through pages of feeds and add to list the title and url for each comic
 i=1
-while (i<=54):
+while (i<=5):
     urlpage = (allurls + str(i))
     f = feedparser.parse(urlpage)
     for feedentry in f.entries:
@@ -44,6 +44,9 @@ def download_image(location, file_name):
 # initializing bad_chars_list
 bad_chars = [';', ':', '!', "*", "?"]
 
+#Intialize JSON list
+comic_json_list = []
+
 #download the files
 for item in comiclist:
     location = item[1]
@@ -52,8 +55,8 @@ for item in comiclist:
     #Run download function  
     download_image(location, str(file_name))
     # Create the JSON list
-    comic_json_list = [{'Title':str(file_name), 'Ref':str("require('../images/")+file_name+"')"}]
-
+    json_list_item = [{'Title':str(file_name), 'Ref':str("require('../images/")+str(file_name)+"')"}]
+    comic_json_list.append(json_list_item)
 # Save JSON list to repo
 jsonString = json.dumps(comic_json_list,  indent=4)
 jsonFile = open("comics.json", "w")
