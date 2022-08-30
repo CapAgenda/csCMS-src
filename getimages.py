@@ -53,6 +53,10 @@ def clean_file_name(fugly):
     cleaned = fugly.encode('ascii', errors='ignore').strip().decode('ascii')
     return cleaned
 
+#function to clean the title
+def clean_title_name(fugly_title):
+    clean_title = fugly_title.encode('ascii', errors='ignore').strip().decode('ascii')
+    return str(clean_title)
 
 #download the files
 for item in comiclist:
@@ -63,12 +67,9 @@ for item in comiclist:
     header = h.headers
     content_type = header.get('content-type')
     extension = content_type.split('/')
-    file_name_title = filename_ugly
+    file_name_title = clean_title_name(filename_ugly)
     #Remove bad chars from file name
-    file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
-    #Remove spaces from file name
-    #file_name_clean = file_name_title.translate(str.maketrans('','',string.punctuation))
-    #file_name_clean = file_name_clean.replace(" ","")
+    #file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     file_name_clean = clean_file_name(filename_ugly) 
     #Add extension to file name
     file_name_ext = file_name_clean +'.'+ extension[1]
