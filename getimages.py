@@ -69,7 +69,7 @@ for item in comiclist:
     #Add extension to file name
     file_name_ext = file_name_clean +'.'+ extension[1]
     # Create the JSON list
-    json_list_item = {'Title':str(file_name_title), 'Ref':str('./images/')+str(file_name_ext)}
+    json_list_item = {'Title':str(file_name_title), 'Ref':str('/images/')+str(file_name_ext)}
     comic_json_list.append(json_list_item)
     
     #Run download function  
