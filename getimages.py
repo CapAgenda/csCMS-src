@@ -53,11 +53,12 @@ for item in comiclist:
     header = h.headers
     content_type = header.get('content-type')
     extension = content_type.split('/')
-    
+    file_name_title = filename_ugly
     #Remove bad chars from file name
-    file_name_title = filename_ugly.join(b for b in item[0] if not b in bad_chars)
+    file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     #Remove spaces from file name
-    file_name_clean = file_name_title.join(d for d in item[0] if not d in bad_char_space)
+    file_name_clean = file_name_title
+    file_name_clean = ''.join(d for d in item[0] if not d in bad_char_space)
     #Add extension to file name
     file_name = file_name_clean +'.'+ extension[1]
     # Create the JSON list
