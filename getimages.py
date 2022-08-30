@@ -38,8 +38,8 @@ def download_image(location, file_name):
     #write file using extension
     file_name = file_name +'.'+ extension[1]
     dir_path = 'src/images'
-    with open(os.path.join(dir_path, file_name), "wb") as f:
-            f.write(response.content)
+    """ with open(os.path.join(dir_path, file_name), "wb") as f:
+            f.write(response.content) """
     
 # initializing bad_chars_list
 bad_chars = [';', ':', '!', "*", "?"]
@@ -50,7 +50,7 @@ for item in comiclist:
     #Remove bad chars from file name
     file_name = ''.join(b for b in item[0] if not b in bad_chars)
     #Run download function  
-    #download_image(location, str(file_name))
+    download_image(location, str(file_name))
     # Create the JSON list
     comic_json_list = [{'Title':str(file_name), 'Ref':str("require('../images/")+file_name+"')"}]
 
