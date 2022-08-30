@@ -74,9 +74,11 @@ for item in comiclist:
     
     #Run download function  
     download_image(location, str(file_name_ext))
-    
+
+#Set json directory
+json_path = 'src'    
 # Save JSON list to repo
 jsonString = json.dumps(comic_json_list,  indent=4)
-jsonFile = open("comics.json", "w")
+jsonFile = open(os.path.join(json_path, "comics.json"), "w")
 jsonFile.write(jsonString)
 jsonFile.close()

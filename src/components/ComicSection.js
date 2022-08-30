@@ -5,37 +5,6 @@ import Comics from "./comics.json";
 
 
 function ComicSection () {
-
-   /* Json list of comics to be put in separate file */
-/*    let comics = [
-    {
-    'comicID': 1,
-    'comicName': 'title of comic one',
-    'comicURL': require('../images/csb-comic.webp')
-    },
-    {
-    'comicID': 2,
-    'comicName': 'no talk too awkward',
-    'comicURL': require('../images/2.webp')
-    },
-    {
-    'comicID': 3,
-    'comicName': 'Thomas Bayes',
-    'comicURL': require('../images/3.webp')
-    },
-    {
-    'comicID': 4,
-    'comicName': 'to shave or not to shave?',
-    'comicURL': require('../images/4.webp')
-    },
-    {
-    'comicID': 5,
-    'comicName': 'not dipping',
-    'comicURL': require('../images/5.webp')
-    }
-]; */
-   
-   
    
     let [comicIndex, setComicIndex] = useState(Comics.length - 1)
 
