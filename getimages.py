@@ -12,7 +12,7 @@ comiclist = []
 
 # Loop through pages of feeds and add to list the title and url for each comic
 i=1
-while (i<=1):
+while (i<=54):
     urlpage = (allurls + str(i))
     f = feedparser.parse(urlpage)
     for feedentry in f.entries:
