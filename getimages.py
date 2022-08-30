@@ -29,7 +29,7 @@ else:
 comic_json_list = []
 
 # initializing bad_chars_lists
-bad_chars = [';', ':', '!', "*", "?","\\", ",", "\u2026", "..."]
+bad_chars = [';', ':', '!', "*", "?", ",","...", "\u2026", "\\"]
 bad_char_space = [" "]
 
 #Set images directory
