@@ -50,7 +50,7 @@ def clean_file_name(fugly):
     fugly = fugly.translate(str.maketrans('','',string.punctuation))
     fugly = fugly.replace(" ","")
     fugly = fugly.replace("...","")
-    cleaned = fugly.replace("–","")
+    cleaned = fugly.encode('ascii', errors='ignore').strip().decode('ascii')
     return cleaned
 
 
