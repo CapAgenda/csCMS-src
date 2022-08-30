@@ -25,6 +25,9 @@ else:
 #print list
 """ print (comiclist) """
 
+#Intialize JSON list
+comic_json_list = []
+
 #function that downloads a file and saves it 
 def download_image(location, file_name):
     # determine and get filetype extension
@@ -37,15 +40,19 @@ def download_image(location, file_name):
     response = requests.get(location)
     #write file using extension
     file_name = file_name +'.'+ extension[1]
+    # Create the JSON list
+    json_list_item = [{'Title':str(file_name), 'Ref':str("require('../images/")+str(file_name)+"')"}]
+    comic_json_list.append(json_list_item)
+    #Set images directory
     dir_path = 'src/images'
+    #Write image file
     """ with open(os.path.join(dir_path, file_name), "wb") as f:
             f.write(response.content) """
     
 # initializing bad_chars_list
 bad_chars = [';', ':', '!', "*", "?"]
 
-#Intialize JSON list
-comic_json_list = []
+
 
 #download the files
 for item in comiclist:
@@ -54,9 +61,7 @@ for item in comiclist:
     file_name = ''.join(b for b in item[0] if not b in bad_chars)
     #Run download function  
     download_image(location, str(file_name))
-    # Create the JSON list
-    json_list_item = [{'Title':str(file_name), 'Ref':str("require('../images/")+str(file_name)+"')"}]
-    comic_json_list.append(json_list_item)
+    
 # Save JSON list to repo
 jsonString = json.dumps(comic_json_list,  indent=4)
 jsonFile = open("comics.json", "w")
