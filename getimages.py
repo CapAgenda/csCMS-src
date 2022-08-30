@@ -1,0 +1,60 @@
+from urllib import response
+import feedparser
+import requests
+import os
+import json
+
+allurls = 'https://comicstripblog.com/feed/?paged='
+
+#Create empty list
+comiclist = []
+
+# Loop through pages of feeds and add to list the title and url for each comic
+i=1
+while (i<=54):
+    urlpage = (allurls + str(i))
+    f = feedparser.parse(urlpage)
+    for feedentry in f.entries:
+        comic = [feedentry.title, feedentry.media_content[1].get('url')]
+        comiclist.append(comic)
+      # Create the JSON list
+        comic_json_list = [{'Title':feedentry.title, 'Ref':str("require('../images/")+feedentry.media_content[1].get('url')+"')"}]
+    i=i+1
+else:
+    print("End of the loop")
+# Save JSON list to repo
+jsonString = json.dumps(comic_json_list,  indent=4)
+jsonFile = open("comics.json", "w")
+jsonFile.write(jsonString)
+jsonFile.close()
+#print list
+""" print (comiclist) """
+
+#function that downloads a file and saves it 
+def download_image(location, file_name):
+    # determine and get filetype extension
+    h = requests.head(location, allow_redirects=True)
+    header = h.headers
+    content_type = header.get('content-type')
+    extension = content_type.split('/')
+    
+    #send GET request
+    response = requests.get(location)
+    #write file using extension
+    file_name = file_name +'.'+ extension[1]
+    dir_path = 'src/images'
+    with open(os.path.join(dir_path, file_name), "wb") as f:
+            f.write(response.content)
+    
+# initializing bad_chars_list
+bad_chars = [';', ':', '!', "*", "?"]
+
+#download the files
+""" for item in comiclist:
+    location = item[1]
+    #Remove bad chars from file name
+    file_name = ''.join(b for b in item[0] if not b in bad_chars)
+    #Run download function  
+    download_image(location, str(file_name)) """
+
+
