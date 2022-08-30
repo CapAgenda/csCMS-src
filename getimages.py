@@ -17,16 +17,11 @@ while (i<=54):
     for feedentry in f.entries:
         comic = [feedentry.title, feedentry.media_content[1].get('url')]
         comiclist.append(comic)
-      # Create the JSON list
-        comic_json_list = [{'Title':feedentry.title, 'Ref':str("require('../images/")+feedentry.media_content[1].get('url')+"')"}]
+      
     i=i+1
 else:
     print("End of the loop")
-# Save JSON list to repo
-jsonString = json.dumps(comic_json_list,  indent=4)
-jsonFile = open("comics.json", "w")
-jsonFile.write(jsonString)
-jsonFile.close()
+
 #print list
 """ print (comiclist) """
 
@@ -50,11 +45,17 @@ def download_image(location, file_name):
 bad_chars = [';', ':', '!', "*", "?"]
 
 #download the files
-""" for item in comiclist:
+for item in comiclist:
     location = item[1]
     #Remove bad chars from file name
     file_name = ''.join(b for b in item[0] if not b in bad_chars)
     #Run download function  
-    download_image(location, str(file_name)) """
+    #download_image(location, str(file_name))
+    # Create the JSON list
+    comic_json_list = [{'Title':str(file_name), 'Ref':str("require('../images/")+file_name+"')"}]
 
-
+# Save JSON list to repo
+jsonString = json.dumps(comic_json_list,  indent=4)
+jsonFile = open("comics.json", "w")
+jsonFile.write(jsonString)
+jsonFile.close()
