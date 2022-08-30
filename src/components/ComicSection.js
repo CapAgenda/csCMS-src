@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Comics from "./comics.json";
+import Comics from "./components/comics.json";
 
 
 
