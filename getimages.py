@@ -37,7 +37,7 @@ def download_image(location, file_name):
     #send GET request
     response = requests.get(location)
     file_name = file_name
-    location = location
+    location = item[1]
     #Set images directory
     dir_path = 'src/images'
     #Write image file
@@ -52,7 +52,7 @@ for item in comiclist:
     content_type = header.get('content-type')
     extension = content_type.split('/')
 
-    location = item[1]
+    
     #Remove bad chars from file name
     file_name_title = ''.join(b for b in item[0] if not b in bad_chars)
     #Remove spaces from file name
