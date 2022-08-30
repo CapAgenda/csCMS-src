@@ -42,7 +42,7 @@ return (
         <div className="comic-title"><h3>{Comics[comicIndex].Title}</h3></div>
         
         <div className="comic-image">
-            <img src={Comics[comicIndex].Ref} alt="" />
+            <img src={process.env.PUBLIC_URL + Comics[comicIndex].Ref} alt="" />
         </div>
         <div className="comic-nav">
             <ul className="comic-nav-list">
