@@ -46,12 +46,12 @@ def download_image(location, file_name):
             f.write(response.content)
 
 #function to clean the file name
-def clean_file_name(string):
-    string = string.translate(str.maketrans('','',string.punctuation))
-    string = string.replace(" ","")
-    string = string.replace("...","")
-    string = string.replace("–","")
-    return string
+def clean_file_name(fugly):
+    fugly = fugly.translate(str.maketrans('','',string.punctuation))
+    fugly = fugly.replace(" ","")
+    fugly = fugly.replace("...","")
+    cleaned = fugly.replace("–","")
+    return cleaned
 
 
 #download the files
