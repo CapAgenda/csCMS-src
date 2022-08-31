@@ -9,11 +9,11 @@ function ComicSection () {
     let [comicIndex, setComicIndex] = useState(Comics.length - 1)
 
     const comicsEnd = () => {
-        setComicIndex(Comics.length - 1);
+        setComicIndex(0);
     };
     const comicsNext = () => {
-        if (comicIndex === Comics.length -1) {
-            setComicIndex(0);
+        if (comicIndex === 0) {
+            setComicIndex(Comics.length - 1);
         }
         else {
             setComicIndex(comicIndex + 1);
@@ -27,14 +27,14 @@ function ComicSection () {
             console.log(rand);
     };
     const comicsPrev = () => {
-        if (comicIndex === 0) {
-            setComicIndex(Comics.length - 1)
+        if (comicIndex === Comics.length - 1) {
+            setComicIndex(0)
         }
         else 
             setComicIndex(comicIndex - 1);
     };
     const comicsStart = () => {
-            setComicIndex(0);
+            setComicIndex(Comics.length - 1);
     };
     
 return (
