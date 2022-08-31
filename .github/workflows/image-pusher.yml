@@ -18,20 +18,20 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
     #build and deploy
   build: 
-      runs-on: ubuntu-latest
-      strategy:
-        matrix:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
           node-version: [16.x]
-      steps:
-        - uses: actions/checkout@v3
-        - name: Build
-        - run: npm install && npm run build
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build
+      - run: npm install && npm run build
 
-        - name: Deploy
-          uses: JamesIves/github-pages-deploy-action@4.1.1
-          with:
-            branch: gh-pages #The branch the action should deploy to.
-            folder: build #The folder the action should deploy.
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: gh-pages #The branch the action should deploy to.
+          folder: build #The folder the action should deploy.
         
 
         
