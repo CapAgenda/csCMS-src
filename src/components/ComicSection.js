@@ -6,7 +6,7 @@ import Comics from "./comics.json";
 
 function ComicSection () {
    
-    let [comicIndex, setComicIndex] = useState(Comics.length - 1)
+    let [comicIndex, setComicIndex] = useState(0)
 
     const comicsEnd = () => {
         setComicIndex(0);
@@ -54,6 +54,7 @@ return (
             </ul>
         </div>
         <div className="comic-text">
+            <p>Tags here</p>
             <p>Permanent Link:  <a href="/#">url.csb/thiscomic</a></p>
             <p>Image URL (for hotlinking / embedding) <a href="/#">url.csb/thiscomic</a></p>
         </div>

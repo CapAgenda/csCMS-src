@@ -1,77 +1,29 @@
-from CSB:
+### CSB CMS
+Comic Strip Blogger CMS:
 
-# good Links
+The CSB CMS is a content management system for comics drawn by Comic Strip Blogger. The management sytem updates the comic repository on a daily basis obtaining the latest comics drawn by CSB.
 
-[good article 1](https://javascript.plainenglish.io/continuously-deploy-static-pages-with-github-actions-gh-pages-207e4a009d1c)
+### CMS languages / technology utilized
+## React
+- The CMS is built using React
+- Comics are changed utilizing useState and 
+## GitHub
+- Image_manager.py is called on a daily basis to update the image repository and a JSON file used to dynamically load images.
+- GitHub Actions are used to build the project utilizing gh-pages action (add reference here)
+## Python
+- The python file image_manager.py obtains data and images from an RSS feed hosted on CSB's wordpress page.
+- The script parses the XML and creates a JSON file listing information such as title, tags, categories as well obtaining the url for each comic.
+- The requests library gets the images from the wordpress site. The images are then commited to the repository using an auto commit action (insert reference here).
+## HTML, CSS and JavaScript
+- The CMS front-end was coded from scratch; designed using HTML and CSS to try and give the application a "comic" look and feel. 
+- Minimal JavaScript was utilized outside of React with most animation, transitions and style elements on the DOM being handled using CSS.
+- The comic navigation buttons used some JavaScript to reference items in a JSON file to dynamically render previous / next
 
-from react template:
-# Getting Started with Create React App
+### Next Steps
+## Add Secondary Pages and Polishing
+- add routing and create secondary pages such as about, blog, etc.
+- update workflow: currently runs on push- change to daily schedule and pull full archive of images.
+- Integrate getalby.com to allow for crypto  / boosting.
+- Set up redirect for site to launch on www.csb.lol.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 

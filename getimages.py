@@ -13,10 +13,10 @@ comiclist = []
 # Loop through pages of feeds and add to list the title and url for each comic
 i=1
 while (i<=3):
-    urlpage = (allurls + str(i))
-    f = feedparser.parse(urlpage)
-    for feedentry in f.entries:
-        comic = [feedentry.title, feedentry.media_content[1].get('url')]
+    payload = (allurls + str(i))
+    fparsed = feedparser.parse(payload)
+    for entry in fparsed.entries:
+        comic = [entry.title, entry.media_content[1].get('url')]
         comiclist.append(comic)
       
     i=i+1
