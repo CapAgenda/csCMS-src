@@ -1,398 +1,819 @@
 [
     {
-        "Title": "how to orange-pill someone",
-        "Ref": "/images/howtoorangepillsomeone.png"
-    },
-    {
-        "Title": "it is time",
-        "Ref": "/images/itistime.png"
-    },
-    {
-        "Title": "teleconferencing life",
-        "Ref": "/images/teleconferencinglife.png"
-    },
-    {
-        "Title": "pom hater, not creator",
-        "Ref": "/images/pomhaternotcreator.png"
-    },
-    {
-        "Title": "job interview to prep for when prep impossible",
-        "Ref": "/images/jobinterviewtoprepforwhenprepimpossible.png"
-    },
-    {
-        "Title": "job interview to prep for when prep impossible",
-        "Ref": "/images/jobinterviewtoprepforwhenprepimpossible.png"
-    },
-    {
-        "Title": "A-Word Lesson",
-        "Ref": "/images/AWordLesson.png"
-    },
-    {
-        "Title": "Europe sinks",
-        "Ref": "/images/Europesinks.png"
-    },
-    {
-        "Title": "meme excuse",
-        "Ref": "/images/memeexcuse.png"
-    },
-    {
-        "Title": "everything but jabs",
-        "Ref": "/images/everythingbutjabs.png"
-    },
-    {
-        "Title": "when again?",
-        "Ref": "/images/whenagain.png"
-    },
-    {
-        "Title": "woke threesome",
-        "Ref": "/images/wokethreesome.png"
-    },
-    {
-        "Title": "dogs have mail too, it is",
-        "Ref": "/images/dogshavemailtooitis.png"
-    },
-    {
-        "Title": "job market for white men",
-        "Ref": "/images/jobmarketforwhitemen.png"
-    },
-    {
-        "Title": "four-legged dialogues",
-        "Ref": "/images/fourleggeddialogues.png"
-    },
-    {
-        "Title": "meanwhile in Europe: electricity prices explode",
-        "Ref": "/images/meanwhileinEuropeelectricitypricesexplode.png"
-    },
-    {
-        "Title": "crypto digger",
-        "Ref": "/images/cryptodigger.png"
-    },
-    {
-        "Title": "finer than I will ever",
-        "Ref": "/images/finerthanIwillever.jpeg"
-    },
-    {
-        "Title": "crypto imbecile",
-        "Ref": "/images/cryptoimbecile.jpeg"
-    },
-    {
-        "Title": "bootlegger and pod beggar",
-        "Ref": "/images/bootleggerandpodbeggar.png"
-    },
-    {
-        "Title": "Do NOT, I repeat NOT, help me Dr. Dick!",
-        "Ref": "/images/DoNOTIrepeatNOThelpmeDrDick.png"
-    },
-    {
-        "Title": "Be better!",
-        "Ref": "/images/Bebetter.png"
-    },
-    {
-        "Title": "A.I.  only just getting started",
-        "Ref": "/images/AIonlyjustgettingstarted.png"
-    },
-    {
-        "Title": "no talk too awkward",
-        "Ref": "/images/notalktooawkward.png"
-    },
-    {
-        "Title": "Thomas Bayes",
-        "Ref": "/images/ThomasBayes.png"
-    },
-    {
-        "Title": "to shave or not to shave?",
-        "Ref": "/images/toshaveornottoshave.png"
-    },
-    {
-        "Title": "not dipping",
-        "Ref": "/images/notdipping.png"
-    },
-    {
-        "Title": "step count question",
-        "Ref": "/images/stepcountquestion.png"
-    },
-    {
-        "Title": "crypto love",
-        "Ref": "/images/cryptolove.png"
-    },
-    {
-        "Title": "handsome selfie",
-        "Ref": "/images/handsomeselfie.png"
-    },
-    {
-        "Title": "only deeds are real",
-        "Ref": "/images/onlydeedsarereal.jpeg"
-    },
-    {
-        "Title": "some people like to block",
-        "Ref": "/images/somepeopleliketoblock.jpeg"
-    },
-    {
-        "Title": "green hater",
-        "Ref": "/images/greenhater.jpeg"
-    },
-    {
-        "Title": "finally proven: women are superior to men",
-        "Ref": "/images/finallyprovenwomenaresuperiortomen.png"
-    },
-    {
-        "Title": "premature napping",
-        "Ref": "/images/prematurenapping.jpeg"
-    },
-    {
-        "Title": "NFT sellers make baby Jesus cry",
-        "Ref": "/images/NFTsellersmakebabyJesuscry.jpeg"
-    },
-    {
-        "Title": "no nap because cloud",
-        "Ref": "/images/nonapbecausecloud.png"
-    },
-    {
-        "Title": "podcasting slump",
-        "Ref": "/images/podcastingslump.jpeg"
-    },
-    {
-        "Title": "Pope sometimes is not catholic",
-        "Ref": "/images/Popesometimesisnotcatholic.jpeg"
-    },
-    {
-        "Title": "rain joy",
-        "Ref": "/images/rainjoy.jpeg"
-    },
-    {
-        "Title": "everyone is art critic",
-        "Ref": "/images/everyoneisartcritic.jpeg"
-    },
-    {
-        "Title": "cats vs dogs: cuteness",
-        "Ref": "/images/catsvsdogscuteness.png"
-    },
-    {
-        "Title": "bitcoin above everything",
-        "Ref": "/images/bitcoinaboveeverything.png"
-    },
-    {
-        "Title": "podnapping",
-        "Ref": "/images/podnapping.jpeg"
-    },
-    {
-        "Title": "monkey business",
-        "Ref": "/images/monkeybusiness.jpeg"
-    },
-    {
-        "Title": "Russian agenda",
-        "Ref": "/images/Russianagenda.png"
-    },
-    {
-        "Title": "happy people ruin everything for the rest of us, how dare they?",
-        "Ref": "/images/happypeopleruineverythingfortherestofushowdarethey.jpeg"
-    },
-    {
-        "Title": "capitalist agenda",
-        "Ref": "/images/capitalistagenda.png"
-    },
-    {
-        "Title": "heatwave blues",
-        "Ref": "/images/heatwaveblues.jpeg"
-    },
-    {
-        "Title": "microphone advice misunderstood",
-        "Ref": "/images/microphoneadvicemisunderstood.png"
-    },
-    {
-        "Title": "crypto waken kraken",
-        "Ref": "/images/cryptowakenkraken.png"
-    },
-    {
-        "Title": "meanwhile in Scotland",
-        "Ref": "/images/meanwhileinScotland.png"
-    },
-    {
-        "Title": "some groups have superpowers",
-        "Ref": "/images/somegroupshavesuperpowers.png"
-    },
-    {
-        "Title": "selfish elderly",
-        "Ref": "/images/selfishelderly.png"
-    },
-    {
-        "Title": "fantasy counts as reality if it works",
-        "Ref": "/images/fantasycountsasrealityifitworks.jpeg"
-    },
-    {
-        "Title": "daily step count goal",
-        "Ref": "/images/dailystepcountgoal.png"
-    },
-    {
-        "Title": "daily step count goal",
-        "Ref": "/images/dailystepcountgoal.png"
-    },
-    {
-        "Title": "not everyone wants to be podcaster",
-        "Ref": "/images/noteveryonewantstobepodcaster.png"
-    },
-    {
-        "Title": "Bitcoin is a fire of Love",
-        "Ref": "/images/BitcoinisafireofLove.png"
-    },
-    {
-        "Title": "developer advocate  real ones to berate",
-        "Ref": "/images/developeradvocaterealonestoberate.png"
-    },
-    {
-        "Title": "mean lean hater machine  scum of the social networks",
-        "Ref": "/images/meanleanhatermachinescumofthesocialnetworks.jpeg"
-    },
-    {
-        "Title": "real life NFT",
-        "Ref": "/images/reallifeNFT.png"
-    },
-    {
-        "Title": "the Algorithms, both of them",
-        "Ref": "/images/theAlgorithmsbothofthem.jpeg"
-    },
-    {
-        "Title": "All the cash to Ukraine",
-        "Ref": "/images/AllthecashtoUkraine.png"
-    },
-    {
-        "Title": "NFT pity",
-        "Ref": "/images/NFTpity.png"
-    },
-    {
-        "Title": "Amazon to buy iRobot",
-        "Ref": "/images/AmazontobuyiRobot.png"
-    },
-    {
-        "Title": "No chances for white men in job market",
-        "Ref": "/images/Nochancesforwhitemeninjobmarket.png"
-    },
-    {
-        "Title": "Luck comes to open people, sometimes at least",
-        "Ref": "/images/Luckcomestoopenpeoplesometimesatleast.png"
-    },
-    {
-        "Title": "point of being alive",
-        "Ref": "/images/pointofbeingalive.png"
-    },
-    {
-        "Title": "shortage of blog visitors",
-        "Ref": "/images/shortageofblogvisitors.jpeg"
-    },
-    {
-        "Title": "must-have Part of Good NFT is?",
-        "Ref": "/images/musthavePartofGoodNFTis.png"
-    },
-    {
-        "Title": "Life  always new surprises",
-        "Ref": "/images/Lifealwaysnewsurprises.png"
-    },
-    {
-        "Title": "she is swimmer not to be slimmer",
-        "Ref": "/images/sheisswimmernottobeslimmer.png"
-    },
-    {
-        "Title": "NFT failure",
-        "Ref": "/images/NFTfailure.png"
-    },
-    {
-        "Title": "zero work ethic",
-        "Ref": "/images/zeroworkethic.png"
-    },
-    {
-        "Title": "nature or nurture?",
-        "Ref": "/images/natureornurture.png"
-    },
-    {
-        "Title": "more signs",
-        "Ref": "/images/moresigns.png"
-    },
-    {
-        "Title": "bug diet: bug POV, part 2",
-        "Ref": "/images/bugdietbugPOVpart2.png"
-    },
-    {
-        "Title": "bug diet: bug POV",
-        "Ref": "/images/bugdietbugPOV.png"
-    },
-    {
-        "Title": "Pepe wants $4.1 too",
-        "Ref": "/images/Pepewants41too.png"
-    },
-    {
-        "Title": "Pepe wants $4.1 too",
-        "Ref": "/images/Pepewants41too.png"
-    },
-    {
-        "Title": "Lazy Pom",
-        "Ref": "/images/LazyPom.jpeg"
-    },
-    {
-        "Title": "decrescendo of my innuendo",
-        "Ref": "/images/decrescendoofmyinnuendo.jpeg"
-    },
-    {
-        "Title": "fake news",
-        "Ref": "/images/fakenews.jpeg"
-    },
-    {
-        "Title": "moistly moist",
-        "Ref": "/images/moistlymoist.jpeg"
-    },
-    {
-        "Title": "dexterity clarity",
-        "Ref": "/images/dexterityclarity.png"
-    },
-    {
-        "Title": "2 reasons",
-        "Ref": "/images/2reasons.png"
-    },
-    {
-        "Title": "evil or not?",
-        "Ref": "/images/evilornot.png"
-    },
-    {
-        "Title": "Taiwan visit",
-        "Ref": "/images/Taiwanvisit.png"
-    },
-    {
-        "Title": "fans not enough, part 2",
-        "Ref": "/images/fansnotenoughpart2.png"
-    },
-    {
-        "Title": "fans not enough, part 1",
-        "Ref": "/images/fansnotenoughpart1.png"
-    },
-    {
-        "Title": "have one but do not be one!",
-        "Ref": "/images/haveonebutdonotbeone.png"
-    },
-    {
-        "Title": "no moar",
-        "Ref": "/images/nomoar.jpeg"
-    },
-    {
-        "Title": "flying dog",
-        "Ref": "/images/flyingdog.png"
-    },
-    {
-        "Title": "why aliens probe what they probe",
-        "Ref": "/images/whyaliensprobewhattheyprobe.jpeg"
-    },
-    {
-        "Title": "not everyone likes em",
-        "Ref": "/images/noteveryonelikesem.jpeg"
-    },
-    {
-        "Title": "not everyone likes em",
-        "Ref": "/images/noteveryonelikesem.jpeg"
-    },
-    {
-        "Title": "some hobbies are way of life not merely hobbies",
-        "Ref": "/images/somehobbiesarewayoflifenotmerelyhobbies.png"
-    },
-    {
-        "Title": "Love is Lit",
-        "Ref": "/images/LoveisLit.png"
+        "title": "how to orange-pill someone",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled12428329.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/how-to-orange-pill-someone/",
+        "date": "Wed, 31 Aug 2022 21:02:43 +0000",
+        "extension": "png",
+        "filename": "howtoorangepillsomeone.png"
+    },
+    {
+        "title": "it is time",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled122.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/it-is-time/",
+        "date": "Wed, 31 Aug 2022 14:06:12 +0000",
+        "extension": "png",
+        "filename": "itistime.png"
+    },
+    {
+        "title": "teleconferencing life",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled121.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "WFH"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/teleconferencing-life/",
+        "date": "Wed, 31 Aug 2022 07:43:33 +0000",
+        "extension": "png",
+        "filename": "teleconferencinglife.png"
+    },
+    {
+        "title": "pom hater, not creator",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3415.png?w=1024",
+        "category": "comic strips",
+        "tags": [
+            "cats"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/pom-hater-not-creator/",
+        "date": "Wed, 31 Aug 2022 03:54:50 +0000",
+        "extension": "png",
+        "filename": "pomhaternotcreator.png"
+    },
+    {
+        "title": "job interview to prep for when prep impossible",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3413.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "job market"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/job-interview-to-prep-for-when-prep-impossible-2/",
+        "date": "Wed, 31 Aug 2022 03:28:40 +0000",
+        "extension": "png",
+        "filename": "jobinterviewtoprepforwhenprepimpossible.png"
+    },
+    {
+        "title": "job interview to prep for when prep impossible",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3413.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "job market"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/31/job-interview-to-prep-for-when-prep-impossible/",
+        "date": "Wed, 31 Aug 2022 03:28:40 +0000",
+        "extension": "png",
+        "filename": "jobinterviewtoprepforwhenprepimpossible.png"
+    },
+    {
+        "title": "A-Word Lesson",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled12028129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Americanish"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/30/a-word-lesson/",
+        "date": "Tue, 30 Aug 2022 12:10:55 +0000",
+        "extension": "png",
+        "filename": "awordlesson.png"
+    },
+    {
+        "title": "Europe sinks",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled119.png?w=866",
+        "category": "cartoons",
+        "tags": [
+            "energy"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/30/europe-sinks/",
+        "date": "Tue, 30 Aug 2022 00:25:43 +0000",
+        "extension": "png",
+        "filename": "europesinks.png"
+    },
+    {
+        "title": "meme excuse",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled11828129.png?w=822",
+        "category": "cartoons",
+        "tags": [
+            "meme",
+            "memes",
+            "memetics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/30/meme-excuse/",
+        "date": "Tue, 30 Aug 2022 00:02:48 +0000",
+        "extension": "png",
+        "filename": "memeexcuse.png"
+    },
+    {
+        "title": "everything but jabs",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled115.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "pandemic"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/29/everything-but-jabs/",
+        "date": "Mon, 29 Aug 2022 22:24:57 +0000",
+        "extension": "png",
+        "filename": "everythingbutjabs.png"
+    },
+    {
+        "title": "when again?",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled113.png?w=984",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/29/when-again/",
+        "date": "Mon, 29 Aug 2022 21:49:34 +0000",
+        "extension": "png",
+        "filename": "whenagain.png"
+    },
+    {
+        "title": "woke threesome",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled11228129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/29/woke-threesome/",
+        "date": "Mon, 29 Aug 2022 21:18:53 +0000",
+        "extension": "png",
+        "filename": "wokethreesome.png"
+    },
+    {
+        "title": "dogs have mail too, it is\u2026",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled111.png?w=944",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/29/dogs-have-mail-too-it-is/",
+        "date": "Mon, 29 Aug 2022 20:35:14 +0000",
+        "extension": "png",
+        "filename": "dogshavemailtooitis.png"
+    },
+    {
+        "title": "job market for white men",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled110.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "job market"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/29/job-market-for-white-men/",
+        "date": "Mon, 29 Aug 2022 19:49:16 +0000",
+        "extension": "png",
+        "filename": "jobmarketforwhitemen.png"
+    },
+    {
+        "title": "four-legged dialogues",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled10828129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/27/four-legged-dialogues/",
+        "date": "Sat, 27 Aug 2022 19:35:04 +0000",
+        "extension": "png",
+        "filename": "fourleggeddialogues.png"
+    },
+    {
+        "title": "meanwhile in Europe: electricity prices explode",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled183.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/26/meanwhile-in-europe-electricity-prices-explode/",
+        "date": "Fri, 26 Aug 2022 22:17:22 +0000",
+        "extension": "png",
+        "filename": "meanwhileineuropeelectricitypricesexplode.png"
+    },
+    {
+        "title": "crypto digger",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0207.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/26/crypto-digger/",
+        "date": "Fri, 26 Aug 2022 05:39:34 +0000",
+        "extension": "png",
+        "filename": "cryptodigger.png"
+    },
+    {
+        "title": "finer than I will ever",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3355.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/25/finer-than-i-will-ever/",
+        "date": "Thu, 25 Aug 2022 11:53:12 +0000",
+        "extension": "jpeg",
+        "filename": "finerthaniwillever.jpeg"
+    },
+    {
+        "title": "crypto imbecile",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3353.jpg?w=796",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/25/crypto-imbecile/",
+        "date": "Thu, 25 Aug 2022 11:36:40 +0000",
+        "extension": "jpeg",
+        "filename": "cryptoimbecile.jpeg"
+    },
+    {
+        "title": "bootlegger and pod beggar",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled105.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "podcasters"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/25/bootlegger-and-pod-beggar/",
+        "date": "Thu, 25 Aug 2022 00:37:52 +0000",
+        "extension": "png",
+        "filename": "bootleggerandpodbeggar.png"
+    },
+    {
+        "title": "Do NOT, I repeat NOT, help me Dr. Dick!",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled104.png?w=503",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/24/do-not-i-repeat-not-help-me-dr-dick/",
+        "date": "Wed, 24 Aug 2022 15:13:12 +0000",
+        "extension": "png",
+        "filename": "donotirepeatnothelpmedrdick.png"
+    },
+    {
+        "title": "Be better!",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled10328229.png?w=925",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/24/be-better/",
+        "date": "Wed, 24 Aug 2022 14:48:58 +0000",
+        "extension": "png",
+        "filename": "bebetter.png"
+    },
+    {
+        "title": "A.I. \u2013 only just getting started",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled10128129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Artificial Inteligence",
+            "robots",
+            "singularity"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/24/a-i-only-just-getting-started/",
+        "date": "Wed, 24 Aug 2022 08:26:06 +0000",
+        "extension": "png",
+        "filename": "aionlyjustgettingstarted.png"
+    },
+    {
+        "title": "no talk too awkward",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled100.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/23/no-talk-too-awkward/",
+        "date": "Tue, 23 Aug 2022 15:14:14 +0000",
+        "extension": "png",
+        "filename": "notalktooawkward.png"
+    },
+    {
+        "title": "Thomas Bayes",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3313.png?w=699",
+        "category": "cartoons",
+        "tags": [
+            "Artificial Intelligence"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/23/thomas-bayes-the-magnificent-bastard/",
+        "date": "Tue, 23 Aug 2022 13:53:17 +0000",
+        "extension": "png",
+        "filename": "thomasbayes.png"
+    },
+    {
+        "title": "to shave or not to shave?",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled97.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Work From Home"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/22/to-shave-or-not-to-shave/",
+        "date": "Mon, 22 Aug 2022 00:10:01 +0000",
+        "extension": "png",
+        "filename": "toshaveornottoshave.png"
+    },
+    {
+        "title": "not dipping",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled98.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin",
+            "crypto",
+            "lewd"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/22/not-dipping/",
+        "date": "Mon, 22 Aug 2022 00:01:33 +0000",
+        "extension": "png",
+        "filename": "notdipping.png"
+    },
+    {
+        "title": "step count question",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled96.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/21/step-count-question/",
+        "date": "Sun, 21 Aug 2022 16:45:53 +0000",
+        "extension": "png",
+        "filename": "stepcountquestion.png"
+    },
+    {
+        "title": "crypto love",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled95.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin",
+            "crypto",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/21/crypto-love/",
+        "date": "Sun, 21 Aug 2022 11:32:48 +0000",
+        "extension": "png",
+        "filename": "cryptolove.png"
+    },
+    {
+        "title": "handsome selfie",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled9228129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/20/handsome-selfie/",
+        "date": "Sat, 20 Aug 2022 19:30:48 +0000",
+        "extension": "png",
+        "filename": "handsomeselfie.png"
+    },
+    {
+        "title": "only deeds are real",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3280.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "life advice",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/19/only-deeds-are-real/",
+        "date": "Fri, 19 Aug 2022 20:09:15 +0000",
+        "extension": "jpeg",
+        "filename": "onlydeedsarereal.jpeg"
+    },
+    {
+        "title": "some people like to block",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/image.jpg?w=393",
+        "category": "cartoons",
+        "tags": [
+            "social media"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/19/some-people-like-to-block/",
+        "date": "Fri, 19 Aug 2022 16:18:57 +0000",
+        "extension": "jpeg",
+        "filename": "somepeopleliketoblock.jpeg"
+    },
+    {
+        "title": "green hater",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3266.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/19/green-hater/",
+        "date": "Fri, 19 Aug 2022 12:41:22 +0000",
+        "extension": "jpeg",
+        "filename": "greenhater.jpeg"
+    },
+    {
+        "title": "finally proven: women are superior to men",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3255.png?w=803",
+        "category": "cartoons",
+        "tags": [
+            "women"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/18/finally-proven-women-are-superior-to-men/",
+        "date": "Thu, 18 Aug 2022 23:26:34 +0000",
+        "extension": "png",
+        "filename": "finallyprovenwomenaresuperiortomen.png"
+    },
+    {
+        "title": "premature napping",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3252.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "men",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/18/premature-napping/",
+        "date": "Thu, 18 Aug 2022 22:21:23 +0000",
+        "extension": "jpeg",
+        "filename": "prematurenapping.jpeg"
+    },
+    {
+        "title": "NFT sellers make baby Jesus cry",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3234.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "NFT"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/18/nft-sellers-make-baby-jesus-cry/",
+        "date": "Thu, 18 Aug 2022 08:55:05 +0000",
+        "extension": "jpeg",
+        "filename": "nftsellersmakebabyjesuscry.jpeg"
+    },
+    {
+        "title": "no nap because cloud",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3224.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Cloud Computing"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/18/no-nap-because-cloud/",
+        "date": "Thu, 18 Aug 2022 02:25:04 +0000",
+        "extension": "png",
+        "filename": "nonapbecausecloud.png"
+    },
+    {
+        "title": "podcasting slump",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3222.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "podcasting"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/18/podcasting-slump/",
+        "date": "Thu, 18 Aug 2022 02:09:00 +0000",
+        "extension": "jpeg",
+        "filename": "podcastingslump.jpeg"
+    },
+    {
+        "title": "Pope sometimes is not catholic",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3220.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "lewd",
+            "relationships",
+            "women"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/17/pope-sometimes-is-not-catholic/",
+        "date": "Wed, 17 Aug 2022 11:15:56 +0000",
+        "extension": "jpeg",
+        "filename": "popesometimesisnotcatholic.jpeg"
+    },
+    {
+        "title": "rain joy",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3217.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/17/rain-joy/",
+        "date": "Wed, 17 Aug 2022 10:28:37 +0000",
+        "extension": "jpeg",
+        "filename": "rainjoy.jpeg"
+    },
+    {
+        "title": "everyone is art critic",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3204.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "art"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/17/everyone-is-art-critic/",
+        "date": "Wed, 17 Aug 2022 06:44:28 +0000",
+        "extension": "jpeg",
+        "filename": "everyoneisartcritic.jpeg"
+    },
+    {
+        "title": "cats vs dogs: cuteness",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3206.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "cats",
+            "dogs",
+            "social media"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/17/cats-vs-dogs-cuteness/",
+        "date": "Wed, 17 Aug 2022 04:22:36 +0000",
+        "extension": "png",
+        "filename": "catsvsdogscuteness.png"
+    },
+    {
+        "title": "bitcoin above everything",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3209.png?w=961",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin",
+            "lewd",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/16/bitcoin-above-everything/",
+        "date": "Tue, 16 Aug 2022 21:59:33 +0000",
+        "extension": "png",
+        "filename": "bitcoinaboveeverything.png"
+    },
+    {
+        "title": "podnapping",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_4857.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "podcasting"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/16/podnapping/",
+        "date": "Tue, 16 Aug 2022 15:56:33 +0000",
+        "extension": "jpeg",
+        "filename": "podnapping.jpeg"
+    },
+    {
+        "title": "monkey business",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3201.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "pandemic"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/15/monkey-business/",
+        "date": "Mon, 15 Aug 2022 20:36:26 +0000",
+        "extension": "jpeg",
+        "filename": "monkeybusiness.jpeg"
+    },
+    {
+        "title": "Russian agenda",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3198.png?w=942",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/15/russian-agenda/",
+        "date": "Mon, 15 Aug 2022 16:52:03 +0000",
+        "extension": "png",
+        "filename": "russianagenda.png"
+    },
+    {
+        "title": "happy people ruin everything for the rest of us, how dare they?",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3194.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/15/happy-people-ruin-everything-for-the-rest-of-us-how-dare-they/",
+        "date": "Mon, 15 Aug 2022 16:27:40 +0000",
+        "extension": "jpeg",
+        "filename": "happypeopleruineverythingfortherestofushowdarethey.jpeg"
+    },
+    {
+        "title": "capitalist agenda",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3193.png?w=997",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/15/capitalist-agenda/",
+        "date": "Mon, 15 Aug 2022 16:06:02 +0000",
+        "extension": "png",
+        "filename": "capitalistagenda.png"
+    },
+    {
+        "title": "heatwave blues",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3192.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "pepe"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/15/heatwave-blues/",
+        "date": "Mon, 15 Aug 2022 15:44:39 +0000",
+        "extension": "jpeg",
+        "filename": "heatwaveblues.jpeg"
+    },
+    {
+        "title": "microphone advice misunderstood",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled8928129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "podcasters",
+            "podcasting",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/13/microphone-advise-misunderstood/",
+        "date": "Sat, 13 Aug 2022 14:31:48 +0000",
+        "extension": "png",
+        "filename": "microphoneadvicemisunderstood.png"
+    },
+    {
+        "title": "crypto waken kraken",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3177.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "crypto"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/13/crypto-waken-kraken/",
+        "date": "Sat, 13 Aug 2022 06:40:08 +0000",
+        "extension": "png",
+        "filename": "cryptowakenkraken.png"
+    },
+    {
+        "title": "meanwhile in Scotland",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0072.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/13/meanwhile-in-scotland/",
+        "date": "Sat, 13 Aug 2022 00:17:44 +0000",
+        "extension": "png",
+        "filename": "meanwhileinscotland.png"
+    },
+    {
+        "title": "some groups have superpowers",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0071.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "alcoholism"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/13/some-groups-have-superpowers/",
+        "date": "Sat, 13 Aug 2022 00:03:42 +0000",
+        "extension": "png",
+        "filename": "somegroupshavesuperpowers.png"
+    },
+    {
+        "title": "selfish elderly",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0070.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/13/selfish-elderly/",
+        "date": "Sat, 13 Aug 2022 00:01:47 +0000",
+        "extension": "png",
+        "filename": "selfishelderly.png"
+    },
+    {
+        "title": "fantasy counts as reality if it works",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3157.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/12/fantasy-counts-as-reality-if-it-works/",
+        "date": "Fri, 12 Aug 2022 06:33:57 +0000",
+        "extension": "jpeg",
+        "filename": "fantasycountsasrealityifitworks.jpeg"
+    },
+    {
+        "title": "daily step count goal",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3154.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/12/daily-step-count-goal-2/",
+        "date": "Fri, 12 Aug 2022 06:02:44 +0000",
+        "extension": "png",
+        "filename": "dailystepcountgoal.png"
+    },
+    {
+        "title": "daily step count goal",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3154.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/12/daily-step-count-goal/",
+        "date": "Fri, 12 Aug 2022 06:02:44 +0000",
+        "extension": "png",
+        "filename": "dailystepcountgoal.png"
+    },
+    {
+        "title": "not everyone wants to be podcaster",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3145.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "podcasting"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/12/not-everyone-wants-to-be-podcaster/",
+        "date": "Fri, 12 Aug 2022 05:58:01 +0000",
+        "extension": "png",
+        "filename": "noteveryonewantstobepodcaster.png"
+    },
+    {
+        "title": "Bitcoin is a fire of Love",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0050.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "bitcoin",
+            "explicit",
+            "relationships"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/11/bitcoin-is-a-fire-of-love/",
+        "date": "Thu, 11 Aug 2022 00:11:20 +0000",
+        "extension": "png",
+        "filename": "bitcoinisafireoflove.png"
+    },
+    {
+        "title": "developer advocate \u2013 real ones to berate",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0049.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "software development"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/11/developer-advocate-real-ones-to-berate/",
+        "date": "Thu, 11 Aug 2022 00:03:37 +0000",
+        "extension": "png",
+        "filename": "developeradvocaterealonestoberate.png"
+    },
+    {
+        "title": "mean lean hater machine \u2013 scum of the social networks",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3128.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "social networks"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/10/mean-lean-hater-machine-scum-of-the-social-networks/",
+        "date": "Wed, 10 Aug 2022 08:48:38 +0000",
+        "extension": "jpeg",
+        "filename": "meanleanhatermachinescumofthesocialnetworks.jpeg"
+    },
+    {
+        "title": "real life NFT",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_3126.png?w=873",
+        "category": "cartoons",
+        "tags": [
+            "NFT"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/10/real-life-nft/",
+        "date": "Wed, 10 Aug 2022 00:53:40 +0000",
+        "extension": "png",
+        "filename": "reallifenft.png"
+    },
+    {
+        "title": "the Algorithms, both of them",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0039.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Artificial Intelligence"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/09/the-algorithms-both-of-them/",
+        "date": "Tue, 09 Aug 2022 15:57:47 +0000",
+        "extension": "jpeg",
+        "filename": "thealgorithmsbothofthem.jpeg"
+    },
+    {
+        "title": "All the cash to Ukraine",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0037.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/09/all-the-cash-to-ukraine/",
+        "date": "Tue, 09 Aug 2022 15:33:47 +0000",
+        "extension": "png",
+        "filename": "allthecashtoukraine.png"
+    },
+    {
+        "title": "NFT pity",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/img_0036.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "NFT"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/09/nft-pity/",
+        "date": "Tue, 09 Aug 2022 13:57:20 +0000",
+        "extension": "png",
+        "filename": "nftpity.png"
+    },
+    {
+        "title": "Amazon to buy iRobot",
+        "image-url": "https://csbartblog.files.wordpress.com/2022/08/untitled18028129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "Artificial Inteligence"
+        ],
+        "wp-page": "http://comicstripblog.com/2022/08/08/amazon-to-buy-irobot/",
+        "date": "Mon, 08 Aug 2022 16:21:53 +0000",
+        "extension": "png",
+        "filename": "amazontobuyirobot.png"
     }
 ]
