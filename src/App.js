@@ -1,19 +1,25 @@
 import './App.css';
-import Header from './components/Header';
-import Nav from './components/Nav';
-import HeaderImage from './components/HeaderImage';
-import ComicSection from './components/ComicSection';
-import FooterSection from './components/FooterSection';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import Home from './Pages/Home';
+import About from './Pages/About';
+import ComicTags from './Pages/ComicTags';
+import ComicCategories from './Pages/ComicCategories';
+
 
 function App() {
   return (
-    <div className="container-grid">
-      <Header />
-      <Nav />
-      <HeaderImage />
-      <ComicSection />
-      <FooterSection />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/comiccategories" element={<ComicCategories />} />
+        <Route path="/comictags" element={<ComicTags />} />
+        <Route path="*" element={<Home />} />
+      </Routes>
+    </Router>
+    
+    
+    
   );
 }
 

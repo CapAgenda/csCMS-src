@@ -69,7 +69,7 @@ def clean_file_name(fugly):
 def get_images_and_json():
     i=1
     comic_list = []
-    while (i<= 2): #To get all images use: i<= len(total_pages)
+    while (i<= 3): #To get all images use: i<= len(total_pages)
         xml_page = str(rss_url_base+str(i))
         parsed_xml = feedparser.parse(xml_page)
         for entry in parsed_xml.entries:
@@ -77,7 +77,7 @@ def get_images_and_json():
             image_url = entry.media_content[1].get('url')
             image_page = entry.id
             file_type = requests.head(image_url, allow_redirects=True).headers.get('content-type').split('/')[1]
-            publish_date = entry.published
+            publish_date = entry.published.replace(" +0000", "")
             comic_tags = [t['term'] for t in entry.tags[1:] if 'term' in t]
             comic_category = entry.tags[0]['term']
             file_name = clean_file_name(title)+'.'+file_type

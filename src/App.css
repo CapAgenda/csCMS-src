@@ -166,8 +166,14 @@ section {
     font-weight: var(--fw-reg);
     transition: all 300ms ease-in-out;
     padding-top: 5px;
+    cursor: pointer;
     
 }
+
+.active {
+    font-weight: var(--fw-bold) !important;
+}
+
 
 .nav-list > li > a::after {
     content: "";
@@ -186,6 +192,8 @@ section {
     width: 100%;    
     transition: all 300ms ease-in-out;
 }
+
+
 
 .logo {
     grid-area: one;
@@ -210,6 +218,8 @@ section {
     padding-left: 1em;
 }
 
+
+
 @media only screen and (min-width: 768px) {
     
     
@@ -233,10 +243,7 @@ section {
         padding: 0 7em 1em 7em;
     }
      
-    .header-subtitle h2 {
-        text-align: left;
-        font-size: var(--fs-secondary-heading) !important;
-    }
+    
 
     .nav-container {
         grid-area: sidebar;
@@ -299,6 +306,14 @@ section {
     .comic-container {
         padding: 1rem 3rem 1rem 15rem !important;
     } 
+    .header-subtitle h2 {
+        text-align: left;
+        font-size: var(--fs-secondary-heading) !important;
+    }
+    .comic-title>h3 {
+        font-size: var(--fs-secondary-heading) !important;
+    }
+   
 }
 
 @media only screen and (min-width: 1560px) {
@@ -315,7 +330,11 @@ section {
     grid-area: three;
     padding: 1em; 
     margin: 0 1em;  
+    min-height: auto;
+    
 }
+
+
 
 .comic-title {
     padding: .5em;
@@ -326,7 +345,7 @@ section {
 }
 .comic-title>h3 {
     text-align: center;
-    font-size: var(--fs-secondary-heading);
+    font-size: var(--fs-primary-text);
     font-weight: var(--fw-light);
     letter-spacing: 1px;
 }
@@ -340,7 +359,7 @@ section {
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
-    padding: 1.5em 0;
+    padding: 0.25em 0 0.75em;
 }
 
 .comic-nav-list>li>button {
@@ -350,16 +369,23 @@ section {
     font-size: var(--fs-small-text);
     border: 2px var(--clr-accent-900) solid;
     padding: .5rem .5rem;
-    border-radius: 2px;
+    border-radius: 5px;
     color: var(--clr-neutral-100);
     background: var(--clr-accent-500);
     box-shadow: 0rem 0.05rem .25rem var(--clr-neutral-900);
     cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+.comic-nav-list>li>button:hover {
+    opacity: 95%;
+    border: 2px var(--clr-primary-900) solid;
+    transition: all .3s ease-in-out;
 }
 
 .comic-text {
     text-align: center;
-    font-weight: var(--fw-bold);
+    font-weight: var(--fw-reg);
+    letter-spacing: 1px;
 }
 
 .comic-text a {
@@ -376,11 +402,27 @@ section {
 
 .tag-list li {
     display: inline-block;
-    padding: 5px 10px;
+    padding: .25em;
     text-transform: capitalize;
     color: var(--clr-primary-500);
-    font-weight: var(--fw-bold);
-    letter-spacing: 1px;
+    
+    
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.text-primary-500 {
+    color: var(--clr-primary-500);
+}
+
+.text-light {
+    font-weight: var(--fw-light);
+}
+
+.text-center {
+    text-align: center;
 }
 
 .footer-container {
