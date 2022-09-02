@@ -83,10 +83,10 @@ def get_images_and_json():
             file_name = clean_file_name(title)+'.'+file_type
             comic = {
                 'title':title,
-                'image-url':image_url,
+                'imageurl':image_url,
                 'category':comic_category,
                 'tags':comic_tags,
-                'wp-page':image_page,
+                'wppage':image_page,
                 'date':publish_date,
                 'extension':file_type,
                 'filename':file_name

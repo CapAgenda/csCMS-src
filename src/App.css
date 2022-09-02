@@ -359,12 +359,28 @@ section {
 
 .comic-text {
     text-align: center;
+    font-weight: var(--fw-bold);
 }
 
 .comic-text a {
     text-decoration: none;
     font-weight: var(--fw-bold);
-    color: var(--clr-accent-700);
+    color: var(--clr-primary-500);
+}
+
+.tag-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tag-list li {
+    display: inline-block;
+    padding: 5px 10px;
+    text-transform: capitalize;
+    color: var(--clr-primary-500);
+    font-weight: var(--fw-bold);
+    letter-spacing: 1px;
 }
 
 .footer-container {
