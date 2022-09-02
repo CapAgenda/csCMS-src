@@ -234,6 +234,7 @@ section {
 
     /* Grid utility for desktop layout */
     .container-grid {
+        max-width: 1500px;
         grid-template-areas:
         'img img img img img'
         'sidebar one one one one'
