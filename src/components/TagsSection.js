@@ -8,7 +8,7 @@ let tagsList = [];
 for (let item in Comics) {
   for (let innTags in Comics[item].tags) {
     let tag = Comics[item].tags[innTags];
-    if (tagsList.indexOf(tag) == "-1") {
+    if (tagsList.indexOf(tag) === -1) {
       tagsList.push(tag);
     }
   }

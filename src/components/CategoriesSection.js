@@ -7,7 +7,7 @@ function CategoriesSection() {
 let catList = [];
 for (let item in Comics) {
     let cat = Comics[item].category;
-    if (catList.indexOf(cat) == "-1") {
+    if (catList.indexOf(cat) === -1) {
       catList.push(cat);
     }
   
