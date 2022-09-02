@@ -1,5 +1,74 @@
 [
     {
+        "title": "minority excuse",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/09/img_3428.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "job market"
+        ],
+        "wppage": "http://comicstripblog.com/2022/09/02/minority-excuse/",
+        "date": "Fri, 02 Sep 2022 18:30:21",
+        "extension": "png",
+        "filename": "minorityexcuse.png"
+    },
+    {
+        "title": "reality brutality: full-time podcasters",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/09/img_3425.jpg?w=1016",
+        "category": "cartoons",
+        "tags": [
+            "podcasters",
+            "podcasting",
+            "podcasts"
+        ],
+        "wppage": "http://comicstripblog.com/2022/09/02/reality-brutality-full-time-podcasters/",
+        "date": "Fri, 02 Sep 2022 16:24:10",
+        "extension": "jpeg",
+        "filename": "realitybrutalityfulltimepodcasters.jpeg"
+    },
+    {
+        "title": "everyone has SOME delusions",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/09/untitled127.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "business",
+            "dinosaurs",
+            "economy",
+            "life observations"
+        ],
+        "wppage": "http://comicstripblog.com/2022/09/02/everyone-has-some-delusions/",
+        "date": "Fri, 02 Sep 2022 14:28:45",
+        "extension": "png",
+        "filename": "everyonehassomedelusions.png"
+    },
+    {
+        "title": "convergence",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/09/untitled126.png?w=958",
+        "category": "cartoons",
+        "tags": [
+            "money",
+            "cryptocurrency",
+            "bitcoin",
+            "crypto",
+            "relationships"
+        ],
+        "wppage": "http://comicstripblog.com/2022/09/02/convergence/",
+        "date": "Fri, 02 Sep 2022 12:37:30",
+        "extension": "png",
+        "filename": "convergence.png"
+    },
+    {
+        "title": "bad reason",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/09/untitled12528129.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/09/02/bad-reason/",
+        "date": "Fri, 02 Sep 2022 12:20:40",
+        "extension": "png",
+        "filename": "badreason.png"
+    },
+    {
         "title": "how to orange-pill someone",
         "imageurl": "https://csbartblog.files.wordpress.com/2022/08/untitled12428329.png?w=1024",
         "category": "cartoons",
@@ -7,7 +76,7 @@
             "bitcoin"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/how-to-orange-pill-someone/",
-        "date": "Wed, 31 Aug 2022 21:02:43 +0000",
+        "date": "Wed, 31 Aug 2022 21:02:43",
         "extension": "png",
         "filename": "howtoorangepillsomeone.png"
     },
@@ -19,7 +88,7 @@
             "life advice"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/it-is-time/",
-        "date": "Wed, 31 Aug 2022 14:06:12 +0000",
+        "date": "Wed, 31 Aug 2022 14:06:12",
         "extension": "png",
         "filename": "itistime.png"
     },
@@ -31,7 +100,7 @@
             "WFH"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/teleconferencing-life/",
-        "date": "Wed, 31 Aug 2022 07:43:33 +0000",
+        "date": "Wed, 31 Aug 2022 07:43:33",
         "extension": "png",
         "filename": "teleconferencinglife.png"
     },
@@ -43,7 +112,7 @@
             "cats"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/pom-hater-not-creator/",
-        "date": "Wed, 31 Aug 2022 03:54:50 +0000",
+        "date": "Wed, 31 Aug 2022 03:54:50",
         "extension": "png",
         "filename": "pomhaternotcreator.png"
     },
@@ -55,7 +124,7 @@
             "job market"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/job-interview-to-prep-for-when-prep-impossible-2/",
-        "date": "Wed, 31 Aug 2022 03:28:40 +0000",
+        "date": "Wed, 31 Aug 2022 03:28:40",
         "extension": "png",
         "filename": "jobinterviewtoprepforwhenprepimpossible.png"
     },
@@ -67,7 +136,7 @@
             "job market"
         ],
         "wppage": "http://comicstripblog.com/2022/08/31/job-interview-to-prep-for-when-prep-impossible/",
-        "date": "Wed, 31 Aug 2022 03:28:40 +0000",
+        "date": "Wed, 31 Aug 2022 03:28:40",
         "extension": "png",
         "filename": "jobinterviewtoprepforwhenprepimpossible.png"
     },
@@ -79,7 +148,7 @@
             "Americanish"
         ],
         "wppage": "http://comicstripblog.com/2022/08/30/a-word-lesson/",
-        "date": "Tue, 30 Aug 2022 12:10:55 +0000",
+        "date": "Tue, 30 Aug 2022 12:10:55",
         "extension": "png",
         "filename": "awordlesson.png"
     },
@@ -91,7 +160,7 @@
             "energy"
         ],
         "wppage": "http://comicstripblog.com/2022/08/30/europe-sinks/",
-        "date": "Tue, 30 Aug 2022 00:25:43 +0000",
+        "date": "Tue, 30 Aug 2022 00:25:43",
         "extension": "png",
         "filename": "europesinks.png"
     },
@@ -100,12 +169,12 @@
         "imageurl": "https://csbartblog.files.wordpress.com/2022/08/untitled11828129.png?w=822",
         "category": "cartoons",
         "tags": [
+            "meme",
             "memes",
-            "memetics",
-            "meme"
+            "memetics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/30/meme-excuse/",
-        "date": "Tue, 30 Aug 2022 00:02:48 +0000",
+        "date": "Tue, 30 Aug 2022 00:02:48",
         "extension": "png",
         "filename": "memeexcuse.png"
     },
@@ -117,7 +186,7 @@
             "pandemic"
         ],
         "wppage": "http://comicstripblog.com/2022/08/29/everything-but-jabs/",
-        "date": "Mon, 29 Aug 2022 22:24:57 +0000",
+        "date": "Mon, 29 Aug 2022 22:24:57",
         "extension": "png",
         "filename": "everythingbutjabs.png"
     },
@@ -129,7 +198,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/29/when-again/",
-        "date": "Mon, 29 Aug 2022 21:49:34 +0000",
+        "date": "Mon, 29 Aug 2022 21:49:34",
         "extension": "png",
         "filename": "whenagain.png"
     },
@@ -142,7 +211,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/29/woke-threesome/",
-        "date": "Mon, 29 Aug 2022 21:18:53 +0000",
+        "date": "Mon, 29 Aug 2022 21:18:53",
         "extension": "png",
         "filename": "wokethreesome.png"
     },
@@ -154,7 +223,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/29/dogs-have-mail-too-it-is/",
-        "date": "Mon, 29 Aug 2022 20:35:14 +0000",
+        "date": "Mon, 29 Aug 2022 20:35:14",
         "extension": "png",
         "filename": "dogshavemailtooitis.png"
     },
@@ -166,7 +235,7 @@
             "job market"
         ],
         "wppage": "http://comicstripblog.com/2022/08/29/job-market-for-white-men/",
-        "date": "Mon, 29 Aug 2022 19:49:16 +0000",
+        "date": "Mon, 29 Aug 2022 19:49:16",
         "extension": "png",
         "filename": "jobmarketforwhitemen.png"
     },
@@ -178,7 +247,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/27/four-legged-dialogues/",
-        "date": "Sat, 27 Aug 2022 19:35:04 +0000",
+        "date": "Sat, 27 Aug 2022 19:35:04",
         "extension": "png",
         "filename": "fourleggeddialogues.png"
     },
@@ -190,7 +259,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/26/meanwhile-in-europe-electricity-prices-explode/",
-        "date": "Fri, 26 Aug 2022 22:17:22 +0000",
+        "date": "Fri, 26 Aug 2022 22:17:22",
         "extension": "png",
         "filename": "meanwhileineuropeelectricitypricesexplode.png"
     },
@@ -202,7 +271,7 @@
             "bitcoin"
         ],
         "wppage": "http://comicstripblog.com/2022/08/26/crypto-digger/",
-        "date": "Fri, 26 Aug 2022 05:39:34 +0000",
+        "date": "Fri, 26 Aug 2022 05:39:34",
         "extension": "png",
         "filename": "cryptodigger.png"
     },
@@ -215,7 +284,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/25/finer-than-i-will-ever/",
-        "date": "Thu, 25 Aug 2022 11:53:12 +0000",
+        "date": "Thu, 25 Aug 2022 11:53:12",
         "extension": "jpeg",
         "filename": "finerthaniwillever.jpeg"
     },
@@ -227,7 +296,7 @@
             "bitcoin"
         ],
         "wppage": "http://comicstripblog.com/2022/08/25/crypto-imbecile/",
-        "date": "Thu, 25 Aug 2022 11:36:40 +0000",
+        "date": "Thu, 25 Aug 2022 11:36:40",
         "extension": "jpeg",
         "filename": "cryptoimbecile.jpeg"
     },
@@ -239,7 +308,7 @@
             "podcasters"
         ],
         "wppage": "http://comicstripblog.com/2022/08/25/bootlegger-and-pod-beggar/",
-        "date": "Thu, 25 Aug 2022 00:37:52 +0000",
+        "date": "Thu, 25 Aug 2022 00:37:52",
         "extension": "png",
         "filename": "bootleggerandpodbeggar.png"
     },
@@ -251,7 +320,7 @@
             "life advice"
         ],
         "wppage": "http://comicstripblog.com/2022/08/24/do-not-i-repeat-not-help-me-dr-dick/",
-        "date": "Wed, 24 Aug 2022 15:13:12 +0000",
+        "date": "Wed, 24 Aug 2022 15:13:12",
         "extension": "png",
         "filename": "donotirepeatnothelpmedrdick.png"
     },
@@ -263,7 +332,7 @@
             "life advice"
         ],
         "wppage": "http://comicstripblog.com/2022/08/24/be-better/",
-        "date": "Wed, 24 Aug 2022 14:48:58 +0000",
+        "date": "Wed, 24 Aug 2022 14:48:58",
         "extension": "png",
         "filename": "bebetter.png"
     },
@@ -277,7 +346,7 @@
             "singularity"
         ],
         "wppage": "http://comicstripblog.com/2022/08/24/a-i-only-just-getting-started/",
-        "date": "Wed, 24 Aug 2022 08:26:06 +0000",
+        "date": "Wed, 24 Aug 2022 08:26:06",
         "extension": "png",
         "filename": "aionlyjustgettingstarted.png"
     },
@@ -290,7 +359,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/23/no-talk-too-awkward/",
-        "date": "Tue, 23 Aug 2022 15:14:14 +0000",
+        "date": "Tue, 23 Aug 2022 15:14:14",
         "extension": "png",
         "filename": "notalktooawkward.png"
     },
@@ -302,7 +371,7 @@
             "Artificial Intelligence"
         ],
         "wppage": "http://comicstripblog.com/2022/08/23/thomas-bayes-the-magnificent-bastard/",
-        "date": "Tue, 23 Aug 2022 13:53:17 +0000",
+        "date": "Tue, 23 Aug 2022 13:53:17",
         "extension": "png",
         "filename": "thomasbayes.png"
     },
@@ -314,7 +383,7 @@
             "Work From Home"
         ],
         "wppage": "http://comicstripblog.com/2022/08/22/to-shave-or-not-to-shave/",
-        "date": "Mon, 22 Aug 2022 00:10:01 +0000",
+        "date": "Mon, 22 Aug 2022 00:10:01",
         "extension": "png",
         "filename": "toshaveornottoshave.png"
     },
@@ -328,7 +397,7 @@
             "lewd"
         ],
         "wppage": "http://comicstripblog.com/2022/08/22/not-dipping/",
-        "date": "Mon, 22 Aug 2022 00:01:33 +0000",
+        "date": "Mon, 22 Aug 2022 00:01:33",
         "extension": "png",
         "filename": "notdipping.png"
     },
@@ -340,7 +409,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/21/step-count-question/",
-        "date": "Sun, 21 Aug 2022 16:45:53 +0000",
+        "date": "Sun, 21 Aug 2022 16:45:53",
         "extension": "png",
         "filename": "stepcountquestion.png"
     },
@@ -354,7 +423,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/21/crypto-love/",
-        "date": "Sun, 21 Aug 2022 11:32:48 +0000",
+        "date": "Sun, 21 Aug 2022 11:32:48",
         "extension": "png",
         "filename": "cryptolove.png"
     },
@@ -366,7 +435,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/20/handsome-selfie/",
-        "date": "Sat, 20 Aug 2022 19:30:48 +0000",
+        "date": "Sat, 20 Aug 2022 19:30:48",
         "extension": "png",
         "filename": "handsomeselfie.png"
     },
@@ -380,7 +449,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/19/only-deeds-are-real/",
-        "date": "Fri, 19 Aug 2022 20:09:15 +0000",
+        "date": "Fri, 19 Aug 2022 20:09:15",
         "extension": "jpeg",
         "filename": "onlydeedsarereal.jpeg"
     },
@@ -392,7 +461,7 @@
             "social media"
         ],
         "wppage": "http://comicstripblog.com/2022/08/19/some-people-like-to-block/",
-        "date": "Fri, 19 Aug 2022 16:18:57 +0000",
+        "date": "Fri, 19 Aug 2022 16:18:57",
         "extension": "jpeg",
         "filename": "somepeopleliketoblock.jpeg"
     },
@@ -404,7 +473,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/19/green-hater/",
-        "date": "Fri, 19 Aug 2022 12:41:22 +0000",
+        "date": "Fri, 19 Aug 2022 12:41:22",
         "extension": "jpeg",
         "filename": "greenhater.jpeg"
     },
@@ -416,7 +485,7 @@
             "women"
         ],
         "wppage": "http://comicstripblog.com/2022/08/18/finally-proven-women-are-superior-to-men/",
-        "date": "Thu, 18 Aug 2022 23:26:34 +0000",
+        "date": "Thu, 18 Aug 2022 23:26:34",
         "extension": "png",
         "filename": "finallyprovenwomenaresuperiortomen.png"
     },
@@ -430,7 +499,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/18/premature-napping/",
-        "date": "Thu, 18 Aug 2022 22:21:23 +0000",
+        "date": "Thu, 18 Aug 2022 22:21:23",
         "extension": "jpeg",
         "filename": "prematurenapping.jpeg"
     },
@@ -442,7 +511,7 @@
             "NFT"
         ],
         "wppage": "http://comicstripblog.com/2022/08/18/nft-sellers-make-baby-jesus-cry/",
-        "date": "Thu, 18 Aug 2022 08:55:05 +0000",
+        "date": "Thu, 18 Aug 2022 08:55:05",
         "extension": "jpeg",
         "filename": "nftsellersmakebabyjesuscry.jpeg"
     },
@@ -454,7 +523,7 @@
             "Cloud Computing"
         ],
         "wppage": "http://comicstripblog.com/2022/08/18/no-nap-because-cloud/",
-        "date": "Thu, 18 Aug 2022 02:25:04 +0000",
+        "date": "Thu, 18 Aug 2022 02:25:04",
         "extension": "png",
         "filename": "nonapbecausecloud.png"
     },
@@ -466,7 +535,7 @@
             "podcasting"
         ],
         "wppage": "http://comicstripblog.com/2022/08/18/podcasting-slump/",
-        "date": "Thu, 18 Aug 2022 02:09:00 +0000",
+        "date": "Thu, 18 Aug 2022 02:09:00",
         "extension": "jpeg",
         "filename": "podcastingslump.jpeg"
     },
@@ -480,7 +549,7 @@
             "women"
         ],
         "wppage": "http://comicstripblog.com/2022/08/17/pope-sometimes-is-not-catholic/",
-        "date": "Wed, 17 Aug 2022 11:15:56 +0000",
+        "date": "Wed, 17 Aug 2022 11:15:56",
         "extension": "jpeg",
         "filename": "popesometimesisnotcatholic.jpeg"
     },
@@ -492,7 +561,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/17/rain-joy/",
-        "date": "Wed, 17 Aug 2022 10:28:37 +0000",
+        "date": "Wed, 17 Aug 2022 10:28:37",
         "extension": "jpeg",
         "filename": "rainjoy.jpeg"
     },
@@ -504,7 +573,7 @@
             "art"
         ],
         "wppage": "http://comicstripblog.com/2022/08/17/everyone-is-art-critic/",
-        "date": "Wed, 17 Aug 2022 06:44:28 +0000",
+        "date": "Wed, 17 Aug 2022 06:44:28",
         "extension": "jpeg",
         "filename": "everyoneisartcritic.jpeg"
     },
@@ -518,7 +587,7 @@
             "social media"
         ],
         "wppage": "http://comicstripblog.com/2022/08/17/cats-vs-dogs-cuteness/",
-        "date": "Wed, 17 Aug 2022 04:22:36 +0000",
+        "date": "Wed, 17 Aug 2022 04:22:36",
         "extension": "png",
         "filename": "catsvsdogscuteness.png"
     },
@@ -532,7 +601,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/16/bitcoin-above-everything/",
-        "date": "Tue, 16 Aug 2022 21:59:33 +0000",
+        "date": "Tue, 16 Aug 2022 21:59:33",
         "extension": "png",
         "filename": "bitcoinaboveeverything.png"
     },
@@ -544,7 +613,7 @@
             "podcasting"
         ],
         "wppage": "http://comicstripblog.com/2022/08/16/podnapping/",
-        "date": "Tue, 16 Aug 2022 15:56:33 +0000",
+        "date": "Tue, 16 Aug 2022 15:56:33",
         "extension": "jpeg",
         "filename": "podnapping.jpeg"
     },
@@ -556,7 +625,7 @@
             "pandemic"
         ],
         "wppage": "http://comicstripblog.com/2022/08/15/monkey-business/",
-        "date": "Mon, 15 Aug 2022 20:36:26 +0000",
+        "date": "Mon, 15 Aug 2022 20:36:26",
         "extension": "jpeg",
         "filename": "monkeybusiness.jpeg"
     },
@@ -568,7 +637,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/15/russian-agenda/",
-        "date": "Mon, 15 Aug 2022 16:52:03 +0000",
+        "date": "Mon, 15 Aug 2022 16:52:03",
         "extension": "png",
         "filename": "russianagenda.png"
     },
@@ -580,7 +649,7 @@
             "life advice"
         ],
         "wppage": "http://comicstripblog.com/2022/08/15/happy-people-ruin-everything-for-the-rest-of-us-how-dare-they/",
-        "date": "Mon, 15 Aug 2022 16:27:40 +0000",
+        "date": "Mon, 15 Aug 2022 16:27:40",
         "extension": "jpeg",
         "filename": "happypeopleruineverythingfortherestofushowdarethey.jpeg"
     },
@@ -592,7 +661,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/15/capitalist-agenda/",
-        "date": "Mon, 15 Aug 2022 16:06:02 +0000",
+        "date": "Mon, 15 Aug 2022 16:06:02",
         "extension": "png",
         "filename": "capitalistagenda.png"
     },
@@ -604,7 +673,7 @@
             "pepe"
         ],
         "wppage": "http://comicstripblog.com/2022/08/15/heatwave-blues/",
-        "date": "Mon, 15 Aug 2022 15:44:39 +0000",
+        "date": "Mon, 15 Aug 2022 15:44:39",
         "extension": "jpeg",
         "filename": "heatwaveblues.jpeg"
     },
@@ -618,7 +687,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/13/microphone-advise-misunderstood/",
-        "date": "Sat, 13 Aug 2022 14:31:48 +0000",
+        "date": "Sat, 13 Aug 2022 14:31:48",
         "extension": "png",
         "filename": "microphoneadvicemisunderstood.png"
     },
@@ -630,7 +699,7 @@
             "crypto"
         ],
         "wppage": "http://comicstripblog.com/2022/08/13/crypto-waken-kraken/",
-        "date": "Sat, 13 Aug 2022 06:40:08 +0000",
+        "date": "Sat, 13 Aug 2022 06:40:08",
         "extension": "png",
         "filename": "cryptowakenkraken.png"
     },
@@ -642,7 +711,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/13/meanwhile-in-scotland/",
-        "date": "Sat, 13 Aug 2022 00:17:44 +0000",
+        "date": "Sat, 13 Aug 2022 00:17:44",
         "extension": "png",
         "filename": "meanwhileinscotland.png"
     },
@@ -654,7 +723,7 @@
             "alcoholism"
         ],
         "wppage": "http://comicstripblog.com/2022/08/13/some-groups-have-superpowers/",
-        "date": "Sat, 13 Aug 2022 00:03:42 +0000",
+        "date": "Sat, 13 Aug 2022 00:03:42",
         "extension": "png",
         "filename": "somegroupshavesuperpowers.png"
     },
@@ -666,7 +735,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/13/selfish-elderly/",
-        "date": "Sat, 13 Aug 2022 00:01:47 +0000",
+        "date": "Sat, 13 Aug 2022 00:01:47",
         "extension": "png",
         "filename": "selfishelderly.png"
     },
@@ -678,7 +747,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/12/fantasy-counts-as-reality-if-it-works/",
-        "date": "Fri, 12 Aug 2022 06:33:57 +0000",
+        "date": "Fri, 12 Aug 2022 06:33:57",
         "extension": "jpeg",
         "filename": "fantasycountsasrealityifitworks.jpeg"
     },
@@ -690,7 +759,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/12/daily-step-count-goal-2/",
-        "date": "Fri, 12 Aug 2022 06:02:44 +0000",
+        "date": "Fri, 12 Aug 2022 06:02:44",
         "extension": "png",
         "filename": "dailystepcountgoal.png"
     },
@@ -702,7 +771,7 @@
             "dogs"
         ],
         "wppage": "http://comicstripblog.com/2022/08/12/daily-step-count-goal/",
-        "date": "Fri, 12 Aug 2022 06:02:44 +0000",
+        "date": "Fri, 12 Aug 2022 06:02:44",
         "extension": "png",
         "filename": "dailystepcountgoal.png"
     },
@@ -714,7 +783,7 @@
             "podcasting"
         ],
         "wppage": "http://comicstripblog.com/2022/08/12/not-everyone-wants-to-be-podcaster/",
-        "date": "Fri, 12 Aug 2022 05:58:01 +0000",
+        "date": "Fri, 12 Aug 2022 05:58:01",
         "extension": "png",
         "filename": "noteveryonewantstobepodcaster.png"
     },
@@ -728,7 +797,7 @@
             "relationships"
         ],
         "wppage": "http://comicstripblog.com/2022/08/11/bitcoin-is-a-fire-of-love/",
-        "date": "Thu, 11 Aug 2022 00:11:20 +0000",
+        "date": "Thu, 11 Aug 2022 00:11:20",
         "extension": "png",
         "filename": "bitcoinisafireoflove.png"
     },
@@ -740,7 +809,7 @@
             "software development"
         ],
         "wppage": "http://comicstripblog.com/2022/08/11/developer-advocate-real-ones-to-berate/",
-        "date": "Thu, 11 Aug 2022 00:03:37 +0000",
+        "date": "Thu, 11 Aug 2022 00:03:37",
         "extension": "png",
         "filename": "developeradvocaterealonestoberate.png"
     },
@@ -752,7 +821,7 @@
             "social networks"
         ],
         "wppage": "http://comicstripblog.com/2022/08/10/mean-lean-hater-machine-scum-of-the-social-networks/",
-        "date": "Wed, 10 Aug 2022 08:48:38 +0000",
+        "date": "Wed, 10 Aug 2022 08:48:38",
         "extension": "jpeg",
         "filename": "meanleanhatermachinescumofthesocialnetworks.jpeg"
     },
@@ -764,7 +833,7 @@
             "NFT"
         ],
         "wppage": "http://comicstripblog.com/2022/08/10/real-life-nft/",
-        "date": "Wed, 10 Aug 2022 00:53:40 +0000",
+        "date": "Wed, 10 Aug 2022 00:53:40",
         "extension": "png",
         "filename": "reallifenft.png"
     },
@@ -776,7 +845,7 @@
             "Artificial Intelligence"
         ],
         "wppage": "http://comicstripblog.com/2022/08/09/the-algorithms-both-of-them/",
-        "date": "Tue, 09 Aug 2022 15:57:47 +0000",
+        "date": "Tue, 09 Aug 2022 15:57:47",
         "extension": "jpeg",
         "filename": "thealgorithmsbothofthem.jpeg"
     },
@@ -788,7 +857,7 @@
             "politics"
         ],
         "wppage": "http://comicstripblog.com/2022/08/09/all-the-cash-to-ukraine/",
-        "date": "Tue, 09 Aug 2022 15:33:47 +0000",
+        "date": "Tue, 09 Aug 2022 15:33:47",
         "extension": "png",
         "filename": "allthecashtoukraine.png"
     },
@@ -800,7 +869,7 @@
             "NFT"
         ],
         "wppage": "http://comicstripblog.com/2022/08/09/nft-pity/",
-        "date": "Tue, 09 Aug 2022 13:57:20 +0000",
+        "date": "Tue, 09 Aug 2022 13:57:20",
         "extension": "png",
         "filename": "nftpity.png"
     },
@@ -812,8 +881,346 @@
             "Artificial Inteligence"
         ],
         "wppage": "http://comicstripblog.com/2022/08/08/amazon-to-buy-irobot/",
-        "date": "Mon, 08 Aug 2022 16:21:53 +0000",
+        "date": "Mon, 08 Aug 2022 16:21:53",
         "extension": "png",
         "filename": "amazontobuyirobot.png"
+    },
+    {
+        "title": "No chances for white men in job market",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/untitled88.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "job market"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/08/no-chances-for-white-men-in-job-market/",
+        "date": "Mon, 08 Aug 2022 10:20:02",
+        "extension": "png",
+        "filename": "nochancesforwhitemeninjobmarket.png"
+    },
+    {
+        "title": "Luck comes to open people, sometimes at least",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/untitled87.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/08/luck-comes-to-open-people-sometimes-at-least/",
+        "date": "Mon, 08 Aug 2022 08:28:07",
+        "extension": "png",
+        "filename": "luckcomestoopenpeoplesometimesatleast.png"
+    },
+    {
+        "title": "point of being alive",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3124.png?w=834",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/08/point-of-being-alive/",
+        "date": "Mon, 08 Aug 2022 00:03:43",
+        "extension": "png",
+        "filename": "pointofbeingalive.png"
+    },
+    {
+        "title": "shortage of blog visitors",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3120.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "blogging"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/shortage-of-blog-visitors/",
+        "date": "Sun, 07 Aug 2022 23:20:08",
+        "extension": "jpeg",
+        "filename": "shortageofblogvisitors.jpeg"
+    },
+    {
+        "title": "must-have Part of Good NFT is\u2026?",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3115.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "crypto",
+            "NFT",
+            "NFTs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/must-have-part-of-good-nft-is/",
+        "date": "Sun, 07 Aug 2022 23:01:22",
+        "extension": "png",
+        "filename": "musthavepartofgoodnftis.png"
+    },
+    {
+        "title": "Life \u2013 always new surprises",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3113.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life observations"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/life-always-new-surprises/",
+        "date": "Sun, 07 Aug 2022 22:43:36",
+        "extension": "png",
+        "filename": "lifealwaysnewsurprises.png"
+    },
+    {
+        "title": "she is swimmer not to be slimmer",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_0023.png?w=968",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/she-is-swimmer-not-to-be-slimmer/",
+        "date": "Sun, 07 Aug 2022 15:39:13",
+        "extension": "png",
+        "filename": "sheisswimmernottobeslimmer.png"
+    },
+    {
+        "title": "NFT failure",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_0021.png?w=860",
+        "category": "cartoons",
+        "tags": [
+            "crypto",
+            "NFT",
+            "NFTs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/nft-failure/",
+        "date": "Sun, 07 Aug 2022 12:56:42",
+        "extension": "png",
+        "filename": "nftfailure.png"
+    },
+    {
+        "title": "zero work ethic",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3102.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/zero-work-ethic/",
+        "date": "Sun, 07 Aug 2022 12:22:39",
+        "extension": "png",
+        "filename": "zeroworkethic.png"
+    },
+    {
+        "title": "nature or nurture?",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_0020.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "biology"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/07/nature-or-nurture/",
+        "date": "Sun, 07 Aug 2022 11:33:47",
+        "extension": "png",
+        "filename": "natureornurture.png"
+    },
+    {
+        "title": "more signs",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/untitled8628129.png?w=717",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/more-signs/",
+        "date": "Sat, 06 Aug 2022 16:38:37",
+        "extension": "png",
+        "filename": "moresigns.png"
+    },
+    {
+        "title": "bug diet: bug POV, part 2",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_0016.png?w=995",
+        "category": "cartoons",
+        "tags": [
+            "bug eating"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/bug-diet-bug-pov-part-2/",
+        "date": "Sat, 06 Aug 2022 13:19:57",
+        "extension": "png",
+        "filename": "bugdietbugpovpart2.png"
+    },
+    {
+        "title": "bug diet: bug POV",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3093.png?w=856",
+        "category": "cartoons",
+        "tags": [
+            "bug eating"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/bug-diet-bug-pov/",
+        "date": "Sat, 06 Aug 2022 09:22:09",
+        "extension": "png",
+        "filename": "bugdietbugpov.png"
+    },
+    {
+        "title": "Pepe wants $4.1 too",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3091.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/pepe-wants-4-1-too-2/",
+        "date": "Sat, 06 Aug 2022 00:35:11",
+        "extension": "png",
+        "filename": "pepewants41too.png"
+    },
+    {
+        "title": "Pepe wants $4.1 too",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3091.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/pepe-wants-4-1-too/",
+        "date": "Sat, 06 Aug 2022 00:35:11",
+        "extension": "png",
+        "filename": "pepewants41too.png"
+    },
+    {
+        "title": "Lazy Pom",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3092.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/06/lazy-pom/",
+        "date": "Sat, 06 Aug 2022 00:15:48",
+        "extension": "jpeg",
+        "filename": "lazypom.jpeg"
+    },
+    {
+        "title": "decrescendo of my innuendo",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3087.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "relationships"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/05/decrescendo-of-my-innuendo/",
+        "date": "Fri, 05 Aug 2022 11:28:46",
+        "extension": "jpeg",
+        "filename": "decrescendoofmyinnuendo.jpeg"
+    },
+    {
+        "title": "fake news",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3060.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [],
+        "wppage": "http://comicstripblog.com/2022/08/05/fake-news/",
+        "date": "Fri, 05 Aug 2022 01:36:56",
+        "extension": "jpeg",
+        "filename": "fakenews.jpeg"
+    },
+    {
+        "title": "moistly moist",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3067.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/05/moistly-moist/",
+        "date": "Fri, 05 Aug 2022 01:36:00",
+        "extension": "jpeg",
+        "filename": "moistlymoist.jpeg"
+    },
+    {
+        "title": "dexterity clarity",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3058.png?w=1001",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/05/dexterity-clarity/",
+        "date": "Fri, 05 Aug 2022 01:35:14",
+        "extension": "png",
+        "filename": "dexterityclarity.png"
+    },
+    {
+        "title": "2 reasons",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3052.png?w=833",
+        "category": "cartoons",
+        "tags": [
+            "pandemic"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/04/2-reasons/",
+        "date": "Thu, 04 Aug 2022 13:31:54",
+        "extension": "png",
+        "filename": "2reasons.png"
+    },
+    {
+        "title": "evil or not?",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3048.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/04/evil-or-not/",
+        "date": "Thu, 04 Aug 2022 13:30:05",
+        "extension": "png",
+        "filename": "evilornot.png"
+    },
+    {
+        "title": "Taiwan visit",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3057.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "politics"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/04/taiwan-visit/",
+        "date": "Thu, 04 Aug 2022 13:25:39",
+        "extension": "png",
+        "filename": "taiwanvisit.png"
+    },
+    {
+        "title": "fans not enough, part 2",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3054.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/04/fans-not-enough-part-2/",
+        "date": "Thu, 04 Aug 2022 13:20:26",
+        "extension": "png",
+        "filename": "fansnotenoughpart2.png"
+    },
+    {
+        "title": "fans not enough, part 1",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3049.png?w=593",
+        "category": "cartoons",
+        "tags": [
+            "life advice"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/04/fans-not-enough-part-1/",
+        "date": "Thu, 04 Aug 2022 13:19:28",
+        "extension": "png",
+        "filename": "fansnotenoughpart1.png"
+    },
+    {
+        "title": "have one but do not be one!",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3042.png?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "society"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/03/have-one-but-do-not-be-one/",
+        "date": "Wed, 03 Aug 2022 01:34:53",
+        "extension": "png",
+        "filename": "haveonebutdonotbeone.png"
+    },
+    {
+        "title": "no moar",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3036.jpg?w=1024",
+        "category": "cartoons",
+        "tags": [
+            "social media"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/03/no-moar/",
+        "date": "Wed, 03 Aug 2022 00:21:39",
+        "extension": "jpeg",
+        "filename": "nomoar.jpeg"
+    },
+    {
+        "title": "flying dog",
+        "imageurl": "https://csbartblog.files.wordpress.com/2022/08/img_3030.png?w=767",
+        "category": "cartoons",
+        "tags": [
+            "dogs"
+        ],
+        "wppage": "http://comicstripblog.com/2022/08/03/flying-dog/",
+        "date": "Wed, 03 Aug 2022 00:03:12",
+        "extension": "png",
+        "filename": "flyingdog.png"
     }
 ]
