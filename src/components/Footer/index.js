@@ -26,7 +26,7 @@ const Footer = () => {
                     <SocialLogo to='/' onClick={toggleHome}>
                         ROBORAI
                     </SocialLogo>
-                    <WebsiteRights>This work is licensed under a <a className='pLink' href='//creativecommons.org/licenses/by-nc/2.5/' target="_blank" aria-label="Creative Commons License">Creative Commons Attribution-NonCommercial 2.5 License</a></WebsiteRights>
+                    <WebsiteRights>This work is licensed under a <a className='pLink' href='//creativecommons.org/licenses/by-nc/2.5/' target="_blank" rel="noopener noreferrer" aria-label="Creative Commons License">Creative Commons Attribution-NonCommercial 2.5 License</a></WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink 
                         href="//noagendasocial.com/@CSB" 
