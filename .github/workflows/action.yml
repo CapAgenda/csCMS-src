@@ -3,19 +3,19 @@ name: Image pusher and project build
 on: [push]
 
 jobs:
-  get_images:
-    runs-on: ubuntu-latest
+ # get_images:
+  #  runs-on: ubuntu-latest
     
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          cache: 'pip' # caching pip dependencies
-      - run: pip install -r requirements.txt
-      - run: python image_manager.py
+   # steps:
+    #  - uses: actions/checkout@v3
+     # - uses: actions/setup-python@v4
+      #  with:
+       #   python-version: '3.9'
+        #  cache: 'pip' # caching pip dependencies
+    #  - run: pip install -r requirements.txt
+     # - run: python image_manager.py
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+     # - uses: stefanzweifel/git-auto-commit-action@v4
     #build and deploy
   build: 
     runs-on: ubuntu-latest

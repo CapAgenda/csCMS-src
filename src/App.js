@@ -4,17 +4,18 @@ import Home from './Pages/Home';
 import About from './Pages/About';
 import ComicTags from './Pages/ComicTags';
 import ComicCategories from './Pages/ComicCategories';
+import Main from './Pages';
 
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Main />} />
         <Route path="/about" element={<About />} />
         <Route path="/comiccategories" element={<ComicCategories />} />
         <Route path="/comictags" element={<ComicTags />} />
-        <Route path="*" element={<Home />} />
+        <Route path="*" element={<Main />} />
       </Routes>
     </Router>
     

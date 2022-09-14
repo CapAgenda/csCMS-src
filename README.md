@@ -1,3 +1,6 @@
+## Pages URL
+<https://capagenda.github.io/cscms-src/>
+
 ### CSB CMS
 Comic Strip Blogger CMS:
 
