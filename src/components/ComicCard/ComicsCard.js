@@ -7,14 +7,13 @@ import {
     ComicP,
     } from './ComicCardElements'
 
+const ComicsCard = ({id, topLine, img, published, tags, alt}) => {
 
-const ComicsCard = ({id, topLine, published, tags, img, alt}) => {
-   
   return (
     <>
     <ComicH1>{topLine}</ComicH1>
     <ComicCard className='paperCard' id={id}>
-        <Comic src={img} alt={alt}/>   
+        <Comic src={img} alt={alt}/>
         <ComicSmall>Published: {published}</ComicSmall>
     </ComicCard>
     <ComicP>Tags: {tags}</ComicP>
@@ -23,3 +22,6 @@ const ComicsCard = ({id, topLine, published, tags, img, alt}) => {
 }
 
 export default ComicsCard
+
+
+
