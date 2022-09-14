@@ -33,19 +33,19 @@ const [iconChange, setIconChange] = useState("");
                 to="work" 
                 onMouseEnter={() => setIconChange("prev")}
                 onMouseLeave={() => setIconChange("")}
-                >{iconChange == "prev" ? <ArrowBack /> : <ArrowLeft/>} Prev 
+                >{iconChange === "prev" ? <ArrowBack /> : <ArrowLeft/>} Prev 
                 </Button>
                 <Button 
                 to="work" 
                 onMouseEnter={() => setIconChange("rand")}
                 onMouseLeave={() => setIconChange("")}
-                >{iconChange == "rand" ? <IconRandomHover /> : <IconRandom/>} Random 
+                >{iconChange === "rand" ? <IconRandomHover /> : <IconRandom/>} Random 
                 </Button>
                 <Button 
                 to="work" 
                 onMouseEnter={() => setIconChange("next")}
                 onMouseLeave={() => setIconChange("")}
-                >Next {iconChange == "next" ? <ArrowForward /> : <ArrowRight/>}
+                >Next {iconChange === "next" ? <ArrowForward /> : <ArrowRight/>}
                 </Button>
             </HeroBtnWrapper>
             <HeroBtnWrapper>
@@ -53,13 +53,13 @@ const [iconChange, setIconChange] = useState("");
                 to="work" 
                 onMouseEnter={() => setIconChange("oldest")}
                 onMouseLeave={() => setIconChange("")}
-                >{iconChange == "oldest" ? <IconOldestHover /> : <IconOldest/>} Oldest 
+                >{iconChange === "oldest" ? <IconOldestHover /> : <IconOldest/>} Oldest 
                 </Button>
                 <Button 
                 to="work" 
                 onMouseEnter={() => setIconChange("newest")}
                 onMouseLeave={() => setIconChange("")}
-                >Newest {iconChange == "newest" ? <IconNewestHover /> : <IconNewest/>}
+                >Newest {iconChange === "newest" ? <IconNewestHover /> : <IconNewest/>}
                 </Button>
             </HeroBtnWrapper>
               

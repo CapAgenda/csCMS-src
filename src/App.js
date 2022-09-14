@@ -1,6 +1,5 @@
 import './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import Home from './Pages/Home';
 import About from './Pages/About';
 import ComicTags from './Pages/ComicTags';
 import ComicCategories from './Pages/ComicCategories';
