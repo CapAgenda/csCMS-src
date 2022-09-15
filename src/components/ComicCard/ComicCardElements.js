@@ -21,7 +21,7 @@ export const ComicsWrapper = styled.div`
     padding: 0 20px;
 
     @media screen and (max-width: 768px) {   
-        padding: 0 10px;
+        padding: 0 5px;
     }
 `
  
@@ -33,13 +33,13 @@ export const ComicCard = styled.div`
     justify-content: center;
     align-items: center;
     border-radius: 3px;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 0 0px 40px rgba(0,0,0,0.2), 0 0 40px rgba(0,0,0,0.2);
     transition: all 0.3s ease-in-out;
-    transform: ${'rotate('+( Math.random() * (3 - -3) + -3) + 'deg)'};
+    transform: 0;
 
     &.paperCard:hover {
-        transform: scale(1.02) ${() => 'rotate('+( Math.random() * (3 - -3) + -3) + 'deg)'};
+        transform: scale(1.02);
         transition: all 0.2s ease-in-out;
     }
 `

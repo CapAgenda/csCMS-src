@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState, useEffect} from 'react'
 import {    
     ComicCard,
     Comic,
@@ -9,8 +9,11 @@ import {
 
 const ComicsCard = ({id, topLine, img, published, tags, alt}) => {
 
+
+
   return (
     <>
+    
     <ComicH1>{topLine}</ComicH1>
     <ComicCard className='paperCard' id={id}>
         <Comic src={img} alt={alt}/>

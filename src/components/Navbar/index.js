@@ -44,7 +44,7 @@ const toggleHome = () => {
                 </MobileIcon>
                 <NavMenu>
                     <NavItem>
-                        <NavLinks scrollNav ={scrollNav}
+                        <NavLinks scrollNav = {scrollNav}
                         onClick={toggleHome}
                         smooth={true}
                         duration={500}

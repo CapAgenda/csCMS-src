@@ -1,0 +1,24 @@
+import {useState, useEffect} from 'react'
+
+export default function GetImages() {
+   
+    
+    const [comicImages, setComicImages] = useState([])
+
+    useEffect(() => {
+        const fetchImages = async () => {
+          const response = await fetch()
+          const data = response.json()
+          setComicImages(data)
+        }
+        fetchImages()
+      }, [])
+
+      return (
+        <>
+          <h1>Test Text</h1>
+        
+        </>
+      )
+
+}
