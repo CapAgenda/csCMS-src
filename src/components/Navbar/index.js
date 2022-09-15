@@ -38,7 +38,7 @@ const toggleHome = () => {
     <IconContext.Provider value={({ scrollNav }) => (scrollNav ? '#00072d' : '#FFF')}>
         <Nav scrollNav ={scrollNav}>
             <NavbarContainer>
-                <NavLogo scrollNav ={scrollNav} to="/" onClick={toggleHome}>ROBORAI</NavLogo>
+                <NavLogo scrollNav ={scrollNav} to="/#" onClick={toggleHome}>ROBORAI</NavLogo>
                 <MobileIcon scrollNav ={scrollNav} onClick={toggle}>
                     <FaBars  />
                 </MobileIcon>
