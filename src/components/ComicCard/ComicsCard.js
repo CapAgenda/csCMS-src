@@ -10,7 +10,7 @@ import {
 
 const ComicsCard = ({id, topLine, img, published, tags, alt}) => {
 
-  const image = 'http://api.csb.lol/image/young-people-09-05-2021.png'
+  const image = 'https://apicsb.herokuapp.com/image/young-people-09-05-2021.png'
   return (
     <>
     
