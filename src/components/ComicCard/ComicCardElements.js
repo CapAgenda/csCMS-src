@@ -17,7 +17,6 @@ export const ComicsWrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr;
     align-items: center;
-    
     padding: 0 20px;
 
     @media screen and (max-width: 768px) {   
@@ -27,6 +26,10 @@ export const ComicsWrapper = styled.div`
  
 
 export const ComicCard = styled.div`    
+    height: 100%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
     background: #FFF;
     display: flex;
     flex-direction: column;
@@ -48,13 +51,16 @@ export const ComicH1 = styled.h1`
     font-size: 48px;
     text-align: center;
     padding-bottom: 35px;
+    word-break: break-all;
 
     @media screen and (max-width: 768px) {
         font-size: 40px;
+        word-break: break-word;
     }
 
     @media screen and (max-width: 480px) {
         font-size: 32px;
+        word-break: break-word;
     }
 `
 
@@ -84,8 +90,10 @@ export const ComicP = styled.p`
 `
 
 export const Comic = styled.img`
+    max-height: 60vh;
     height: 100%;
-    width: 100%;
+    width: auto;
+    max-width: 100%;
     margin-bottom: 10px;
     border: 3px solid black;
     border-radius:3px;

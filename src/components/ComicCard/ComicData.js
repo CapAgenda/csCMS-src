@@ -1,12 +1,19 @@
-import comicImage from '../../Assets/Images/sanedifferencenot.png'
 
-export const projectOne = {
-    id: 'other',
-    topLine: 'Static Title',
-    published: 'static PublishDate',
-    img: comicImage,
-    alt: 'Static Alt',
-    tags: 'static tag1, static tag2'
-    
-};
+const imageUrl = 'https://apicsb.herokuapp.com/image/'
+const filename = 'memetic-hazard-09-18-2022.png'
+const latest = '/get-latest'
 
+
+
+
+  export const projectOne = {
+
+
+
+        id: 'other',
+        topLine: 'title',
+        published: 'static PublishDate',
+        img: imageUrl+filename,
+        alt: 'Static Alt',
+        tags: 'static tag1, static tag2'
+    }

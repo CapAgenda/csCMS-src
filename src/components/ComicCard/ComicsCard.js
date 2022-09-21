@@ -1,5 +1,4 @@
-import React
- from 'react'
+import React, {useEffect, useState} from 'react'
 import {    
     ComicCard,
     Comic,
@@ -8,18 +7,39 @@ import {
     ComicP,
     } from './ComicCardElements'
 
-const ComicsCard = ({id, topLine, img, published, tags, alt}) => {
+const ComicsCard = () => {
+  const [cartoon, setCartoons] = useState([])
+  
+  const latest = '/get-latest'
+  const imageUrl = 'https://apicsb.herokuapp.com/image/'
 
-  const image = 'https://apicsb.herokuapp.com/image/young-people-09-05-2021.png'
-  return (
+  const fetchData = () => {
+    fetch(latest, {
+      headers: {
+          "Content-Type": "application/json"
+          }
+    })
+    .then(response => {
+      return response.json()
+    })
+    .then(data => {
+      setCartoons(data)
+    })
+}
+
+  useEffect(() => {
+    fetchData()
+  }, [])
+
+ return (
     <>
     
-    <ComicH1>{topLine}</ComicH1>
-    <ComicCard className='paperCard' id={id}>
-        <Comic src={image} alt={alt}/>
-        <ComicSmall>Published: {published}</ComicSmall>
+    <ComicH1>{cartoon.title}</ComicH1>
+    <ComicCard className='paperCard' >
+        <Comic src={imageUrl+cartoon.filename} alt={cartoon.filename}/>
+        <ComicSmall>Published: {cartoon.published_at}</ComicSmall>
     </ComicCard>
-    <ComicP>Tags: {tags}</ComicP>
+    <ComicP>Tags: {cartoon.tags}</ComicP>
     </>
   )
 }

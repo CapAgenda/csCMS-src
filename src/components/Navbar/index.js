@@ -45,12 +45,12 @@ const toggleHome = () => {
                 <NavMenu>
                     <NavItem>
                         <NavLinks scrollNav = {scrollNav}
-                        onClick={toggleHome}
+                        to="comics"
                         smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
-                        offset={-80}
+                        offset={-160}
                         >Comics</NavLinks>
                     </NavItem>
                     <NavItem>

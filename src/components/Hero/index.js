@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import { Button } from '../ButtonElement';
 import Comics from '../ComicCard';
+
 import { 
     HeroContainer,
     HeroBg,
@@ -24,7 +25,7 @@ const HeroSection = () => {
 const [iconChange, setIconChange] = useState("");
 
   return (
-    <HeroContainer>
+    <HeroContainer id="comics">
         <HeroBg>  <CoverBg />  </HeroBg>  
         <HeroContent >     
             <Comics />
@@ -62,7 +63,6 @@ const [iconChange, setIconChange] = useState("");
                 >Newest {iconChange === "newest" ? <IconNewestHover /> : <IconNewest/>}
                 </Button>
             </HeroBtnWrapper>
-              
         </HeroContent>
     </HeroContainer>
   )

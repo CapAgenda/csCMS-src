@@ -16,10 +16,9 @@ const Comics = () => {
   
   return (
    <>
-   <ComicsContainer id="comics">
+   <ComicsContainer >
         <ComicsWrapper >
-            <ComicsCard
-             {...projectOne}/>
+            <ComicsCard/>
         </ComicsWrapper>
    </ComicsContainer>
    </>
