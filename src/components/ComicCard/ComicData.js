@@ -1,7 +1,7 @@
 
 const imageUrl = 'https://apicsb.herokuapp.com/image/'
 const filename = 'memetic-hazard-09-18-2022.png'
-const latest = '/get-latest'
+
 
 
 
