@@ -10,7 +10,7 @@ import {
 const ComicsCard = () => {
   const [cartoon, setCartoons] = useState([])
   
-  const latest = '/get-latest'
+  const latest = 'https://apicsb.herokuapp.com/get-latest'
   const imageUrl = 'https://apicsb.herokuapp.com/image/'
 
   const fetchData = () => {
