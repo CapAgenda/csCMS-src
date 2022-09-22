@@ -16,7 +16,10 @@ const ComicsCard = () => {
   const fetchData = () => {
     fetch(latest, {
       headers: {
-          "Content-Type": "application/json"
+          "Method": "GET",
+          "Content-Type": "text/plain",
+          
+
           }
     })
     .then(response => {
@@ -30,6 +33,7 @@ const ComicsCard = () => {
   useEffect(() => {
     fetchData()
   }, [])
+
 
  return (
     <>
