@@ -16,7 +16,7 @@ const ComicsCard = () => {
   const fetchData = () => {
     fetch(latest, {
       headers: {
-          "Method": "GET",
+          
           "Content-Type": "text/plain",
           
 
