@@ -89,7 +89,7 @@ export default function CartoonNav() {
                 <Comic src={baseImageSrcUrl+currentComic.filename} alt={currentComic.filename}/>
                 <ComicSmall>Published: {currentComic.published_at}</ComicSmall>
             </ComicCard>
-            <ComicP>Tags: {currentComic.tags}</ComicP>
+                <ComicP>Tags: {currentComic.tags}</ComicP>
             <HeroBtnWrapper>
                 <ComicButton 
                 onMouseEnter={() => setIconChange("prev")}

@@ -75,7 +75,7 @@ export const HeroContent = styled.div`
 `
 
 export const HeroBtnWrapper = styled.div`
-    margin-top: 24px;
+    margin-top: 16px;
     display: flex;
     gap: 5px; 
     align-items: center;

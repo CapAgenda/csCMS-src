@@ -48,18 +48,18 @@ export const ComicCard = styled.div`
 `
 export const ComicH1 = styled.h1`
     color: #FFF;
-    font-size: 48px;
+    font-size: 42px;
     text-align: center;
-    padding-bottom: 35px;
-    word-break: break-all;
+    padding-bottom: 16px;
+    word-break: break-word;
 
     @media screen and (max-width: 768px) {
-        font-size: 40px;
+        font-size: 32px;
         word-break: break-word;
     }
 
     @media screen and (max-width: 480px) {
-        font-size: 32px;
+        font-size: 24px;
         word-break: break-word;
     }
 `
@@ -77,7 +77,7 @@ export const ComicSmall = styled.small`
 `
 
 export const ComicP = styled.p`
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-align: center;
     color: #FFF;
     width: 100%;
@@ -103,7 +103,7 @@ export const ComicButton = styled.button`
     border-radius: 10px;
     background: #0D47A1;
     white-space: nowrap;
-    padding: 14px;
+    padding: 16px;
     color: #FFF;
     font-size: 16px;
     font-weight: bold;
