@@ -5,6 +5,7 @@ import HeroSection from '../components/Hero'
 import About from '../components/About'
 import Footer from '../components/Footer'
 
+
 const Main = () => {
   
     /* Mobile Nav Toggle */
@@ -20,6 +21,7 @@ const Main = () => {
         <Navbar isOpen={isOpen} toggle={toggle} />
         
         <HeroSection />
+        
         <About />
         <Footer />
     </>
