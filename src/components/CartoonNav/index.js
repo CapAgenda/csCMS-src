@@ -73,6 +73,9 @@ export default function CartoonNav() {
     }
     function handleLatestCartoon() {
         setPrimeEndpoint(baseEndpointUrl+"get-latest");   
+    }
+    function handleRandomCartoon() {
+        setPrimeEndpoint(baseEndpointUrl+"random-comic");   
     } 
     
     return (
@@ -97,6 +100,7 @@ export default function CartoonNav() {
                 <ComicButton 
                 onMouseEnter={() => setIconChange("rand")}
                 onMouseLeave={() => setIconChange("")}
+                onClick={handleRandomCartoon}
                 >{iconChange === "rand" ? <IconRandomHover /> : <IconRandom/>} Random 
                 </ComicButton>
                 <ComicButton 
