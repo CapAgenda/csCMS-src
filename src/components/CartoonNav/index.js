@@ -75,7 +75,8 @@ export default function CartoonNav() {
         setPrimeEndpoint(baseEndpointUrl+"get-latest");   
     }
     function handleRandomCartoon() {
-        setPrimeEndpoint(baseEndpointUrl+"random-comic");   
+        setPrimeEndpoint(baseEndpointUrl+"random-comic");
+        fetchComic(primeEndpoint)   
     } 
     
     return (
